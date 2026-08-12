@@ -1,0 +1,1496 @@
+{
+  "image_width": 4550,
+  "image_height": 6274,
+  "lines": [
+    {
+      "bbox": [
+        625,
+        312,
+        898,
+        404
+      ],
+      "text": "1841.]",
+      "confidence": 0.8579
+    },
+    {
+      "bbox": [
+        1831,
+        320,
+        2676,
+        397
+      ],
+      "text": "TRADES' DIRECTORY.",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        3719,
+        320,
+        3875,
+        394
+      ],
+      "text": "647",
+      "confidence": 0.8934
+    },
+    {
+      "bbox": [
+        678,
+        474,
+        3924,
+        534
+      ],
+      "text": "BOOKSELLERS, &c.—continued | | Field John, 65 Quadrant, Regent street | Houlston William, 35 High Holborn",
+      "confidence": 0.8541
+    },
+    {
+      "bbox": [
+        564,
+        534,
+        3954,
+        596
+      ],
+      "text": "*†Coghlan F. 5 Brydges st. & 457 Strand \\Firth Mrs. E. 9 Somerset st. Aldgate Howard Mrs. Esther, 33 Gray's inn lane",
+      "confidence": 0.9497
+    },
+    {
+      "bbox": [
+        564,
+        598,
+        3708,
+        661
+      ],
+      "text": "+Colburn Henry, 13 Gt. Marlborough st | Fisher Thos. 2 Postern row, Tower hill | Huett Noah, 141 High Holborn",
+      "confidence": 0.2803
+    },
+    {
+      "bbox": [
+        567,
+        659,
+        3952,
+        731
+      ],
+      "text": "||Cole Joseph, London street Greenwich|||†Flook Jas. F. 85 Charlotte st. Ftzry. sq|||Hughes Hugh, 15 St. Martin's le grand",
+      "confidence": 0.7849
+    },
+    {
+      "bbox": [
+        571,
+        725,
+        3955,
+        796
+      ],
+      "text": "||Collins Miss Julia, 29 Orchard street ||Ford K. J. Upperst. Hornsey rw. Isling || Hurren Mrs.S. 45 Curtain rd. Shoredit",
+      "confidence": 0.4659
+    },
+    {
+      "bbox": [
+        568,
+        792,
+        3951,
+        856
+      ],
+      "text": "[Collins Samuel, 84 St. John street rd Fores Henry P.3 Spurst. Leicester sq | t | Hurst Thomas, 5 St. Paul's church yd",
+      "confidence": 0.4757
+    },
+    {
+      "bbox": [
+        568,
+        856,
+        3917,
+        924
+      ],
+      "text": "Collyer E. & A. 5 Prospect pl. Chelsea | Foster Miss M.E. 24 Aylesbury st. Clknwl | Hutton John, 56 Mortimer st. Cav. sq",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        2806,
+        917,
+        3897,
+        987
+      ],
+      "text": "SHyde Wm. 17A, Gt. Titchfield street",
+      "confidence": 0.3578
+    },
+    {
+      "bbox": [
+        568,
+        926,
+        2654,
+        984
+      ],
+      "text": "Corbett Thomas, 218 Tottenham ct. rd | Fox Charles, 67 Paternoster row",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        2806,
+        981,
+        3897,
+        1053
+      ],
+      "text": "Ilbery Jas. 1 Great Titchfield street",
+      "confidence": 0.3954
+    },
+    {
+      "bbox": [
+        560,
+        988,
+        2685,
+        1052
+      ],
+      "text": "+Cornish Samuel & Co. 126 Newgate st | + || Fraser James, 215 Regent street",
+      "confidence": 0.3778
+    },
+    {
+      "bbox": [
+        2809,
+        1050,
+        3954,
+        1113
+      ],
+      "text": "\"¶alley Mrs. Elbth. 2 Stafford st. Bond st",
+      "confidence": 0.239
+    },
+    {
+      "bbox": [
+        563,
+        1051,
+        2765,
+        1120
+      ],
+      "text": "Cotes Nat. Hardcastle, 139 Cheapside | Frego Thos. 6 Charlotte st. Fitzroy sq",
+      "confidence": 0.2903
+    },
+    {
+      "bbox": [
+        2817,
+        1117,
+        3950,
+        1177
+      ],
+      "text": "Ingham William, 28 Wilson st. Finsbury",
+      "confidence": 0.9791
+    },
+    {
+      "bbox": [
+        566,
+        1119,
+        1609,
+        1180
+      ],
+      "text": "Courtier Charles, 3 Bouverie street",
+      "confidence": 0.9479
+    },
+    {
+      "bbox": [
+        1653,
+        1121,
+        2764,
+        1178
+      ],
+      "text": "Fry Edmund, 4 Bishopsgate without",
+      "confidence": 0.9765
+    },
+    {
+      "bbox": [
+        575,
+        1178,
+        3894,
+        1244
+      ],
+      "text": "CowelJas.W.6Waterloo ter.Comrl.rd.ea c Fryer J. 15 Gower st. north, New road I Inglis John, 13 Tysoe st. Exmouth st",
+      "confidence": 0.9947
+    },
+    {
+      "bbox": [
+        572,
+        1248,
+        3943,
+        1306
+      ],
+      "text": "*Cowell Joseph, 23 Queen's row, Pimlico | Fullarton A.&Co.12 King's sq. Goswell rd | Jackson & Walford, 18 St. Paul's ch. yd",
+      "confidence": 0.8901
+    },
+    {
+      "bbox": [
+        1675,
+        1308,
+        3951,
+        1370
+      ],
+      "text": "|Gardner&Son,(Oxford)7Paternoster rw|||Jackson John, 13 Agar st. West Strand",
+      "confidence": 0.5722
+    },
+    {
+      "bbox": [
+        564,
+        1315,
+        1516,
+        1369
+      ],
+      "text": "Cowie, Jolland & Co. 31 Poultry",
+      "confidence": 0.8281
+    },
+    {
+      "bbox": [
+        1682,
+        1373,
+        3838,
+        1436
+      ],
+      "text": "Garmeson Josph. (old) 9 Templest. Whtfrs | | Jackson John Hen. Islington green",
+      "confidence": 0.9954
+    },
+    {
+      "bbox": [
+        568,
+        1378,
+        1584,
+        1433
+      ],
+      "text": "Coxhead Joseph, 249 High Holborn",
+      "confidence": 0.9758
+    },
+    {
+      "bbox": [
+        2784,
+        1442,
+        3729,
+        1499
+      ],
+      "text": "|*||bJeffery William, 7 Mark lane",
+      "confidence": 0.477
+    },
+    {
+      "bbox": [
+        564,
+        1443,
+        1433,
+        1497
+      ],
+      "text": "Crabb James A. 80 Cheapside",
+      "confidence": 0.898
+    },
+    {
+      "bbox": [
+        1679,
+        1446,
+        2718,
+        1498
+      ],
+      "text": "Geeves Thomas, 141 Regent street",
+      "confidence": 0.8104
+    },
+    {
+      "bbox": [
+        553,
+        1505,
+        3954,
+        1563
+      ],
+      "text": "*Cradock T. M. & Co. 48 Paternoster rw & George John N. 66 Upper Berkeley st | Jeffery Wm. 7 George yard, Lombard st",
+      "confidence": 0.9903
+    },
+    {
+      "bbox": [
+        563,
+        1567,
+        3773,
+        1631
+      ],
+      "text": "Cresswell John, 121 Crawford street | Gilbert & Grattan, 51 Paternoster row | Indicate | Granting | Robert, 62 Cheapside",
+      "confidence": 0.5452
+    },
+    {
+      "bbox": [
+        553,
+        1635,
+        3833,
+        1691
+      ],
+      "text": "*$\\|\\b\\Crew Francis, 27 Lamb's Conduit st \\| +Gilbert G. 2 Green Arbour sq. O. Bailey \\| Jerrey Samuel, 32 Tabernacle walk",
+      "confidence": 0.9234
+    },
+    {
+      "bbox": [
+        556,
+        1693,
+        3860,
+        1764
+      ],
+      "text": "Crick Mrs. Susanna, Broadway, Stratfrd Gilbert Samuel, (who.) 26 Paternoster row | † Johnson Henry, 49 Paternoster row",
+      "confidence": 0.9855
+    },
+    {
+      "bbox": [
+        1654,
+        1764,
+        2545,
+        1822
+      ],
+      "text": "||Gilling William, 193 Strand",
+      "confidence": 0.7749
+    },
+    {
+      "bbox": [
+        2782,
+        1765,
+        3803,
+        1820
+      ],
+      "text": "|||Johnston Thomas, 53 Moorgate st",
+      "confidence": 0.8831
+    },
+    {
+      "bbox": [
+        557,
+        1766,
+        1592,
+        1818
+      ],
+      "text": "+Crofts William, 19 Chancery lane",
+      "confidence": 0.3886
+    },
+    {
+      "bbox": [
+        561,
+        1830,
+        3704,
+        1886
+      ],
+      "text": "Crouch Geo. 5 Tudor st. & 1 Crown ct. Ginger Godfree Wm. 21 College street Jones & Co. 32 Finsbury place",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        611,
+        1891,
+        1402,
+        1948
+      ],
+      "text": "Bridge street, Blackfriars",
+      "confidence": 0.9401
+    },
+    {
+      "bbox": [
+        1668,
+        1893,
+        3897,
+        1949
+      ],
+      "text": "| | Girity Mrs. E. 40 Silver st. Golden sq | Jones & Yarrell, Bury st. St. James's",
+      "confidence": 0.5681
+    },
+    {
+      "bbox": [
+        553,
+        1956,
+        3950,
+        2013
+      ],
+      "text": "Crozier Robt. 29 Bow st. Covent garden Gladding John, 20 City road, Finsbury sq Jones Jas. 5 Horse shoe ct. Ludgate hill",
+      "confidence": 0.9695
+    },
+    {
+      "bbox": [
+        552,
+        2017,
+        3906,
+        2080
+      ],
+      "text": "†Cumberland John, Camden New town Gladding Rob. 97 & 98 Whitechapel road | Jones John, 6 King street, Tower hill",
+      "confidence": 0.266
+    },
+    {
+      "bbox": [
+        553,
+        2084,
+        3950,
+        2140
+      ],
+      "text": "||Cummins Mrs. H. 80 New cut, Lambeth | Glover James, Water lane, Fleet street | Jones J. (old), 73 Princes st. Leicstr. sq",
+      "confidence": 0.4445
+    },
+    {
+      "bbox": [
+        564,
+        2147,
+        3924,
+        2206
+      ],
+      "text": "†Cunningham Hugh, 1 St. Martin's pl |||*Gooch Edw. F. 55 King Wm. st. City|||aJones John Emanuel, 59 Crawford st",
+      "confidence": 0.1798
+    },
+    {
+      "bbox": [
+        552,
+        2207,
+        3955,
+        2273
+      ],
+      "text": "†||Dalton Wm. Henry, 28 Cockspur st | Goodwin Edward, 2 Shoe lane, Fleet st | †Jones Thos. (catholic), 63 Patrastr.row",
+      "confidence": 0.5435
+    },
+    {
+      "bbox": [
+        560,
+        2272,
+        3784,
+        2334
+      ],
+      "text": "†Daly Charles, 19 Red Lion sq. Holborn | Gordon James, 146 Leadenhall street | †Joy William, 44 Paternoster row",
+      "confidence": 0.9938
+    },
+    {
+      "bbox": [
+        555,
+        2332,
+        3956,
+        2405
+      ],
+      "text": "||aDaniel Richd. 2 King st. Covent garden | Grattan & Gilbert, (map publishers; |||cKaines Mrs. M. New road, St. Geo. ea",
+      "confidence": 0.6815
+    },
+    {
+      "bbox": [
+        550,
+        2399,
+        1580,
+        2461
+      ],
+      "text": "Daniell Edward, 53 Mortimer street",
+      "confidence": 0.9563
+    },
+    {
+      "bbox": [
+        1744,
+        2400,
+        3939,
+        2460
+      ],
+      "text": "agents to the honourable Board of Keating Geo. (catholic), 38 South st",
+      "confidence": 0.9999
+    },
+    {
+      "bbox": [
+        1740,
+        2465,
+        2635,
+        2523
+      ],
+      "text": "Ordnance), 51 Paternoster row",
+      "confidence": 0.9853
+    },
+    {
+      "bbox": [
+        553,
+        2466,
+        1509,
+        2522
+      ],
+      "text": "†Darton & Clark, 58 Holborn hill",
+      "confidence": 0.2848
+    },
+    {
+      "bbox": [
+        2828,
+        2469,
+        3427,
+        2521
+      ],
+      "text": "Manchester square",
+      "confidence": 0.801
+    },
+    {
+      "bbox": [
+        1678,
+        2526,
+        3773,
+        2590
+      ],
+      "text": "Green John, 48 Gt. Queen st. Linc. inn fi | Keats Joseph, 143 Sloane street",
+      "confidence": 0.9372
+    },
+    {
+      "bbox": [
+        553,
+        2533,
+        1512,
+        2588
+      ],
+      "text": "Davis Charles, 48 Coleman street",
+      "confidence": 0.9128
+    },
+    {
+      "bbox": [
+        556,
+        2594,
+        2628,
+        2652
+      ],
+      "text": "Davis Charles, 41 Gt. Marylebone st. | Green John, 121 Newgate street",
+      "confidence": 0.394
+    },
+    {
+      "bbox": [
+        2802,
+        2594,
+        3950,
+        2651
+      ],
+      "text": "||Kelly John Henry, 2 Vigo st. Regent st",
+      "confidence": 0.6019
+    },
+    {
+      "bbox": [
+        556,
+        2656,
+        2742,
+        2716
+      ],
+      "text": "Dawson Jas. 38 White Lion st. Pntnvl | Greenland Geo. & Alfred, 38 Poultry",
+      "confidence": 0.9025
+    },
+    {
+      "bbox": [
+        2798,
+        2658,
+        3814,
+        2713
+      ],
+      "text": "†Kelly Thomas, 16 Paternoster row",
+      "confidence": 0.3289
+    },
+    {
+      "bbox": [
+        549,
+        2721,
+        3882,
+        2778
+      ],
+      "text": "*Dean & Munday, 35&40Threadneedle st Gregory Isaac, 6 Chapel st. Tott. ct. rd Kendrick John, 4 Charlotte row, City",
+      "confidence": 0.3827
+    },
+    {
+      "bbox": [
+        553,
+        2782,
+        2688,
+        2844
+      ],
+      "text": "+*De Porquet F. 11 Tavistock st. Cov. g | Griffith William, 41 Goswell road",
+      "confidence": 0.346
+    },
+    {
+      "bbox": [
+        2802,
+        2784,
+        3890,
+        2840
+      ],
+      "text": "<sup>a</sup>Kennedy Thomas, 20 Throgmorton st",
+      "confidence": 0.9278
+    },
+    {
+      "bbox": [
+        1667,
+        2846,
+        3951,
+        2907
+      ],
+      "text": "Grimshaw Miss A. 21 Radcliffe terrace | Kenneth Wm. 22 Gt. Russell st. Cov.gar",
+      "confidence": 0.9758
+    },
+    {
+      "bbox": [
+        553,
+        2849,
+        1565,
+        2905
+      ],
+      "text": "†Dinnis James, 62 Paternoster row",
+      "confidence": 0.7422
+    },
+    {
+      "bbox": [
+        553,
+        2914,
+        3950,
+        2970
+      ],
+      "text": "Dodson Daniel, 137 Fleet street & 4 New | Groombridge R. 6 Panyer al. Newgate st | Kennett R. J. (old), 14 York st. Cov.gar",
+      "confidence": 0.9284
+    },
+    {
+      "bbox": [
+        1674,
+        2974,
+        3951,
+        3036
+      ],
+      "text": "| Hadland John T. 90 Queen st. Cheapside | Kernot Henry, 42 Castle st. Leicester sq",
+      "confidence": 0.5461
+    },
+    {
+      "bbox": [
+        606,
+        2977,
+        1247,
+        3032
+      ],
+      "text": "street, Covent garden",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        553,
+        3039,
+        3947,
+        3096
+      ],
+      "text": "†Dolman Charles, 61 New Bond street | HeHailes Nathl. 49 Jermyn st.St. James's | ‡aKerr Wm. 32 Duke st. Manchester sq",
+      "confidence": 0.9952
+    },
+    {
+      "bbox": [
+        553,
+        3103,
+        3799,
+        3160
+      ],
+      "text": "Douglas Mrs. M. E.16 Lit. Knightrider st Haljday J.P.20 Charlotterw. Walworthrd Kettle Charles, 255 High Holborn",
+      "confidence": 0.9106
+    },
+    {
+      "bbox": [
+        553,
+        3166,
+        1535,
+        3223
+      ],
+      "text": "Dowding John, 82 Newgate street",
+      "confidence": 0.9139
+    },
+    {
+      "bbox": [
+        1672,
+        3166,
+        3738,
+        3222
+      ],
+      "text": "| | HalstedChas. 120 High st. Camden town | Kettle John, 117 High Holborn",
+      "confidence": 0.5241
+    },
+    {
+      "bbox": [
+        542,
+        3228,
+        3950,
+        3286
+      ],
+      "text": "*$\\|\\bDowding W.S.18 Cannon st. St. Geo.e \\frac{1}{2} Hamilton, Adams & Co.33 Paternost. row \\are Kettle Wm. 13 Little Queen st. Holbonic",
+      "confidence": 0.1716
+    },
+    {
+      "bbox": [
+        557,
+        3293,
+        3950,
+        3351
+      ],
+      "text": "Dowie John E. 14 Crown st. Walworth | Hanton John, 9 Musuem st. Bloomsbury | Kidd & Hodgson (pub. of Bent's Lit.",
+      "confidence": 0.9965
+    },
+    {
+      "bbox": [
+        1672,
+        3356,
+        3943,
+        3413
+      ],
+      "text": "<sup>a</sup>Hare A.96Sloane st.&16North Audley st <math>Adv.</math>), Aldine chambs.13 Paternost.rw",
+      "confidence": 0.8955
+    },
+    {
+      "bbox": [
+        551,
+        3357,
+        1469,
+        3414
+      ],
+      "text": "Doyle Martin, 82 Chancery lane",
+      "confidence": 0.9318
+    },
+    {
+      "bbox": [
+        555,
+        3419,
+        1560,
+        3477
+      ],
+      "text": "¶||Drewett Mrs. Ann, 62 Quadrant",
+      "confidence": 0.9673
+    },
+    {
+      "bbox": [
+        1675,
+        3419,
+        3950,
+        3476
+      ],
+      "text": "Harris C. 25 Bow st. & 6 Opera arcade | Kidd Wm. 7 Tavistock st. Covent gard",
+      "confidence": 0.3904
+    },
+    {
+      "bbox": [
+        551,
+        3482,
+        1578,
+        3540
+      ],
+      "text": "Drysdale James, 165 Goswell street",
+      "confidence": 0.8793
+    },
+    {
+      "bbox": [
+        1672,
+        3482,
+        3950,
+        3539
+      ],
+      "text": "*\\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\|",
+      "confidence": 0.581
+    },
+    {
+      "bbox": [
+        549,
+        3543,
+        3955,
+        3615
+      ],
+      "text": "†Duncan & Malcolm, 37 Paternoster row | | Harris Henry, 18 Bridge st. Westminster | | Kimpton J. M. 68 Gt. Russell st. Blms",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        553,
+        3604,
+        2620,
+        3670
+      ],
+      "text": "Dyer Thomas, 24 Princes st. Leicester sq Harris John, 21 Ludgate street",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        2811,
+        3605,
+        3956,
+        3668
+      ],
+      "text": "Kimpton Richard, 31 Wardour st. Soho",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        549,
+        3671,
+        2563,
+        3734
+      ],
+      "text": "1 Dykes & Cooper, 33 Piccadilly, & 1 Harris Miss S. 6 Opera arcade",
+      "confidence": 0.2992
+    },
+    {
+      "bbox": [
+        2809,
+        3673,
+        3954,
+        3729
+      ],
+      "text": "*King Thomas, 11 Lit. Queen st. Holborn",
+      "confidence": 0.8072
+    },
+    {
+      "bbox": [
+        1649,
+        3735,
+        3954,
+        3793
+      ],
+      "text": "| Harvey & Darton, 55 Gracechurch st | Kirby Ralph S. 20 Warwick la. Nwgt.st",
+      "confidence": 0.3288
+    },
+    {
+      "bbox": [
+        614,
+        3739,
+        1425,
+        3791
+      ],
+      "text": "High street, Bloomsbury",
+      "confidence": 0.9318
+    },
+    {
+      "bbox": [
+        545,
+        3799,
+        3901,
+        3858
+      ],
+      "text": "§ Earle Geo. 67 Castle st. east, Oxford st Hatchard John & Son, 187 Piccadilly | Kissick John, 10 Tottenham ct. road",
+      "confidence": 0.9886
+    },
+    {
+      "bbox": [
+        553,
+        3864,
+        3950,
+        3922
+      ],
+      "text": "East Philip, 18 Holywell street, Strand AHattersley Wm. 43 Regent st. Wstmn Knight Charles & Co. 22 Ludgate street",
+      "confidence": 0.991
+    },
+    {
+      "bbox": [
+        553,
+        3927,
+        3947,
+        3985
+      ],
+      "text": "SEbers E. S. & Co. 27 Old Bond street | +Hayward Jas. & Co. who. 53 Paternost.rw | +Lacey Edwd, (who.) 76 St. Paul's ch.yd",
+      "confidence": 0.5711
+    },
+    {
+      "bbox": [
+        1667,
+        3988,
+        3944,
+        4052
+      ],
+      "text": "| | | | | | | | | | | | | | | | | | | ",
+      "confidence": 0.9009
+    },
+    {
+      "bbox": [
+        553,
+        3992,
+        1611,
+        4046
+      ],
+      "text": "*Edwards Frederic, 56 Leman street",
+      "confidence": 0.7479
+    },
+    {
+      "bbox": [
+        1674,
+        4051,
+        3948,
+        4112
+      ],
+      "text": "Hearl George, 28 Russell. ct. Drury lane | Lanchenick Claudius, 5 Brompton row",
+      "confidence": 0.8958
+    },
+    {
+      "bbox": [
+        553,
+        4057,
+        1486,
+        4110
+      ],
+      "text": "Edwards James, 76 Bunhill row",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        549,
+        4118,
+        2734,
+        4175
+      ],
+      "text": "†‡Edwards William, 12 Ave Maria lane †Hearne John, (& old), 81 Strand",
+      "confidence": 0.3961
+    },
+    {
+      "bbox": [
+        2760,
+        4118,
+        3954,
+        4174
+      ],
+      "text": "Lawford G. 6 Saville pl. New Burlingtn.st",
+      "confidence": 0.8852
+    },
+    {
+      "bbox": [
+        553,
+        4177,
+        3955,
+        4239
+      ],
+      "text": "Eedes John, 14 Little Knightrider street Heath William, 293 Lincoln's inn fields |*\\|aLawless Edward D. 13 Philpot lane",
+      "confidence": 0.9546
+    },
+    {
+      "bbox": [
+        1672,
+        4245,
+        3954,
+        4300
+      ],
+      "text": "+Heaton Geo. 20 Houghton st. Clare mk | *b Layton Charles & Edwin, 150 Fleet st",
+      "confidence": 0.9891
+    },
+    {
+      "bbox": [
+        553,
+        4247,
+        1649,
+        4300
+      ],
+      "text": "<sup>e</sup>Egley Thomas, 69 New Bond street",
+      "confidence": 0.9317
+    },
+    {
+      "bbox": [
+        1668,
+        4308,
+        3901,
+        4362
+      ],
+      "text": "+$Hebert Mrs. Elizabeth, 88 Cheapside | aLeathwaite John, 1 Pope's head alley",
+      "confidence": 0.394
+    },
+    {
+      "bbox": [
+        568,
+        4310,
+        1486,
+        4363
+      ],
+      "text": "Elder, Smith & Co. 65 Cornhill",
+      "confidence": 0.8444
+    },
+    {
+      "bbox": [
+        561,
+        4370,
+        2620,
+        4426
+      ],
+      "text": "c||Elkins V. 8Baker street, & 62George st.||Henderson George, 2 Old Bailey",
+      "confidence": 0.3815
+    },
+    {
+      "bbox": [
+        2805,
+        4373,
+        3484,
+        4426
+      ],
+      "text": "| t | Lee John, 440 Strand",
+      "confidence": 0.3985
+    },
+    {
+      "bbox": [
+        576,
+        4434,
+        2813,
+        4489
+      ],
+      "text": "Elkins Wm. Henry, 47 Lombard street Henningham & Hollis, 5 Mount street",
+      "confidence": 0.9632
+    },
+    {
+      "bbox": [
+        2813,
+        4434,
+        3913,
+        4489
+      ],
+      "text": "Leigh James, 25 South Audley street",
+      "confidence": 0.9941
+    },
+    {
+      "bbox": [
+        571,
+        4496,
+        2658,
+        4554
+      ],
+      "text": "Elt Chas. H. 18 Hedge row, Islington | EHering Henry, 9 Newman street",
+      "confidence": 0.9771
+    },
+    {
+      "bbox": [
+        2817,
+        4498,
+        3890,
+        4552
+      ],
+      "text": "| | Leigh Mary Anne & Co. 421 Strand",
+      "confidence": 0.5832
+    },
+    {
+      "bbox": [
+        2815,
+        4556,
+        3823,
+        4615
+      ],
+      "text": "Lester Thomas, 14 Finsbury place",
+      "confidence": 0.9966
+    },
+    {
+      "bbox": [
+        552,
+        4558,
+        2704,
+        4618
+      ],
+      "text": "Elvin & Taylor, 48 Goodge st. Fitzroy sq | +*a Hetherington Henry, 126 Strand",
+      "confidence": 0.9747
+    },
+    {
+      "bbox": [
+        553,
+        4621,
+        2779,
+        4677
+      ],
+      "text": "Elvin Mrs. Sophia, 13 Tabernacle square *Hex William, 6 East road, City road",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        2824,
+        4621,
+        3905,
+        4676
+      ],
+      "text": "†Levy Isabella Mrs. 17 Crutchedfriars",
+      "confidence": 0.3385
+    },
+    {
+      "bbox": [
+        552,
+        4681,
+        2784,
+        4744
+      ],
+      "text": "*Emans William, 43 Aldersgate street | *Hextall Fred. 11 Catherine st. Strand",
+      "confidence": 0.4677
+    },
+    {
+      "bbox": [
+        2817,
+        4684,
+        3939,
+        4739
+      ],
+      "text": "Lewes Francis, 36 Kenton st. Bruns. sq",
+      "confidence": 0.9805
+    },
+    {
+      "bbox": [
+        564,
+        4748,
+        2733,
+        4804
+      ],
+      "text": "Emmens Jas. 51 Grosvenor pl. Pimlico | Alicks Robert, 106 Crawford street",
+      "confidence": 0.9461
+    },
+    {
+      "bbox": [
+        2817,
+        4748,
+        3909,
+        4804
+      ],
+      "text": "†Lewis Samuel & Co. 87 Aldersgate st",
+      "confidence": 0.4332
+    },
+    {
+      "bbox": [
+        551,
+        4804,
+        1450,
+        4868
+      ],
+      "text": "Emmins John, 7 High Holborn",
+      "confidence": 0.9001
+    },
+    {
+      "bbox": [
+        1675,
+        4806,
+        3734,
+        4868
+      ],
+      "text": "| | | | | | | | | | | | | | | | | | | ",
+      "confidence": 0.5757
+    },
+    {
+      "bbox": [
+        2808,
+        4867,
+        3949,
+        4943
+      ],
+      "text": "Lilly Jsph. 19 King street, Cov. garden",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        557,
+        4873,
+        2737,
+        4931
+      ],
+      "text": "Ensoll Frederic, 45 Paddington street | Higly Mrs. Elizabeth, 3 Eyre st. hill",
+      "confidence": 0.9608
+    },
+    {
+      "bbox": [
+        586,
+        4930,
+        3967,
+        5000
+      ],
+      "text": "Evans Ann & Son, 1 Gt. Queen street | Hobson G: 8 Crombie's r. Commerl.rd.ea | TLincoln W.S. 3 Cheltenham pl. West rd",
+      "confidence": 0.9964
+    },
+    {
+      "bbox": [
+        568,
+        5000,
+        2715,
+        5058
+      ],
+      "text": "Evans Geo. F. 47 William st. Regent's pk | Hodgson Orlando, 111 Fleet street",
+      "confidence": 0.7839
+    },
+    {
+      "bbox": [
+        2813,
+        5002,
+        3837,
+        5059
+      ],
+      "text": "† aLloyd Edmund, 57 Harley street",
+      "confidence": 0.2369
+    },
+    {
+      "bbox": [
+        2815,
+        5062,
+        3956,
+        5126
+      ],
+      "text": "Lloyd Edward, 231 High st. Shoreditch",
+      "confidence": 0.9925
+    },
+    {
+      "bbox": [
+        556,
+        5063,
+        2806,
+        5122
+      ],
+      "text": "Evans John, 9 Portugal st. Linc. inn fields | † \\| | A Hodgson S. 6 & 9 Gt. Marylebone st",
+      "confidence": 0.8315
+    },
+    {
+      "bbox": [
+        557,
+        5126,
+        1535,
+        5182
+      ],
+      "text": "||Evans John Edward, 62 Snowhill",
+      "confidence": 0.66
+    },
+    {
+      "bbox": [
+        1679,
+        5127,
+        2741,
+        5184
+      ],
+      "text": "Holder William Thomas, 311 Strand",
+      "confidence": 0.9183
+    },
+    {
+      "bbox": [
+        2813,
+        5128,
+        3954,
+        5186
+      ],
+      "text": "¶ Lloyd Wm. 36 Chandos st. Covent gard",
+      "confidence": 0.6169
+    },
+    {
+      "bbox": [
+        561,
+        5191,
+        1600,
+        5247
+      ],
+      "text": "Evans Robert Harding, 93 Pall mall",
+      "confidence": 0.9359
+    },
+    {
+      "bbox": [
+        1675,
+        5191,
+        3859,
+        5248
+      ],
+      "text": "| +Holdsworth Samuel, 13 Berner's street | +Longman & Co. 39 Paternoster row",
+      "confidence": 0.4674
+    },
+    {
+      "bbox": [
+        2809,
+        5250,
+        3723,
+        5314
+      ],
+      "text": "| Love George, 81 Bunhill row",
+      "confidence": 0.5216
+    },
+    {
+      "bbox": [
+        557,
+        5254,
+        1539,
+        5311
+      ],
+      "text": "Evans Samuel, 42 Edgware road",
+      "confidence": 0.9195
+    },
+    {
+      "bbox": [
+        1675,
+        5256,
+        2741,
+        5310
+      ],
+      "text": "Holmes Wm. 31 Holywell st. Strand",
+      "confidence": 0.8834
+    },
+    {
+      "bbox": [
+        549,
+        5317,
+        2821,
+        5373
+      ],
+      "text": "<sup>a</sup>Everett Wm. 5 Johnson's court, Fleet st + Hookham Thomas, 15 Old Bond street",
+      "confidence": 0.9491
+    },
+    {
+      "bbox": [
+        2824,
+        5317,
+        3962,
+        5373
+      ],
+      "text": "LovelaceJohn, 47 William st. Regent's pk",
+      "confidence": 0.9862
+    },
+    {
+      "bbox": [
+        2824,
+        5377,
+        3958,
+        5435
+      ],
+      "text": "CLovett Abraham H. 19 Dean st. Soho",
+      "confidence": 0.9407
+    },
+    {
+      "bbox": [
+        553,
+        5380,
+        1656,
+        5437
+      ],
+      "text": "cEwins Samuel Daniel, 102 Cheapside",
+      "confidence": 0.4392
+    },
+    {
+      "bbox": [
+        1668,
+        5381,
+        2673,
+        5436
+      ],
+      "text": "+Hooper Henry, 13 Pall mall east",
+      "confidence": 0.3562
+    },
+    {
+      "bbox": [
+        2821,
+        5439,
+        3958,
+        5502
+      ],
+      "text": "<sup>c</sup>Low John, 14 Lit. Queen street, Holborn",
+      "confidence": 0.9306
+    },
+    {
+      "bbox": [
+        1675,
+        5444,
+        2805,
+        5501
+      ],
+      "text": "Hopkins Fred. S. 5 Bishopsgate within",
+      "confidence": 0.9977
+    },
+    {
+      "bbox": [
+        561,
+        5447,
+        1421,
+        5501
+      ],
+      "text": "†Fairburn John, 110 Minories",
+      "confidence": 0.6266
+    },
+    {
+      "bbox": [
+        2817,
+        5504,
+        3924,
+        5564
+      ],
+      "text": "| Low Sampson, 42 Lamb's Conduit st",
+      "confidence": 0.3385
+    },
+    {
+      "bbox": [
+        553,
+        5505,
+        2715,
+        5566
+      ],
+      "text": "<sup>a</sup>Farmer J. 11 Hereford pl. Commer. rd. ea \\ Horne George & Co. 105 Cheapside",
+      "confidence": 0.807
+    },
+    {
+      "bbox": [
+        2822,
+        5565,
+        3846,
+        5629
+      ],
+      "text": "†Lumley Edward, 56 Chancery lane",
+      "confidence": 0.7624
+    },
+    {
+      "bbox": [
+        572,
+        5570,
+        2654,
+        5628
+      ],
+      "text": "Faulkner Thos. 1 Paradise row, Chelsea Horne John, 19 Leicester square",
+      "confidence": 0.955
+    },
+    {
+      "bbox": [
+        579,
+        5628,
+        3978,
+        5698
+      ],
+      "text": "|Feldwick Thos. John, 40 Coleman street | ||<sup>a</sup>Horne W. M.2 Skinner's st. New road | § ||¶ M'Clary Henry Jas. 32 St. James's st",
+      "confidence": 0.9359
+    },
+    {
+      "bbox": [
+        567,
+        5696,
+        1400,
+        5755
+      ],
+      "text": "| the Fell George, 60 Piccadilly",
+      "confidence": 0.2421
+    },
+    {
+      "bbox": [
+        1668,
+        5696,
+        3882,
+        5753
+      ],
+      "text": "\\alpha Horsman Jas. 9 Brownlow st. Bedfd.row M'Combie George John, 17 Barbican",
+      "confidence": 0.199
+    },
+    {
+      "bbox": [
+        2817,
+        5758,
+        3958,
+        5816
+      ],
+      "text": "<sup>a</sup>M'Danell James, 1 Charterhouse street",
+      "confidence": 0.9216
+    },
+    {
+      "bbox": [
+        568,
+        5761,
+        2714,
+        5817
+      ],
+      "text": "†Fellowes Benjamin, 39 Ludgate street | | Houghton James, 98 Jermyn street |",
+      "confidence": 0.5185
+    },
+    {
+      "bbox": [
+        2824,
+        5822,
+        3969,
+        5880
+      ],
+      "text": "M'Donald John, 11 Russell ct. Drury la",
+      "confidence": 0.987
+    },
+    {
+      "bbox": [
+        563,
+        5823,
+        1449,
+        5882
+      ],
+      "text": "Fellowes Joseph, 13 Shoe lane",
+      "confidence": 0.7947
+    },
+    {
+      "bbox": [
+        1672,
+        5824,
+        2775,
+        5882
+      ],
+      "text": "| | | | | | | | | | | | | | | | | | | ",
+      "confidence": 0.6961
+    },
+    {
+      "bbox": [
+        560,
+        5884,
+        3981,
+        5947
+      ],
+      "text": "§¶FergusonJohn, 5 Earl's ct. Leicester sq | +Houlston & Stoneman, 65 Paternoster r M'Lachlan J. 19 Ship yard, Temple b ar",
+      "confidence": 0.9866
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+ "@context": "http://iiif.io/api/presentation/2/context.json",
+ "@type": "sc:Manifest",
+ "@id": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:8844/manifest.json",
+ "label": "Post Office London Directory, 1841. [Part 1: Street, Commercial, & Trades Directories) \u2014 pages 674\u2013677",
+ "metadata": [
+  {
+   "label": "Collection",
+   "value": "Historical directories"
+  },
+  {
+   "label": "Contact us",
+   "value": "Email specialcollections@leicester.ac.uk"
+  },
+  {
+   "label": "Date of publication",
+   "value": "1841"
+  },
+  {
+   "label": "Description",
+   "value": "Lacks title page. This edition includes for the first time a Street Directory and a Court Directory, the latter consisting of everyone in the Street Directory who is not engaged in trade."
+  },
+  {
+   "label": "Download available",
+   "value": "Yes"
+  },
+  {
+   "label": "Format",
+   "value": "PDF"
+  },
+  {
+   "label": "Full title",
+   "value": "The Post Office London Directory, 1841. Comprising, amongst other information, street directory, commercial directory, trades' directory ... [Part 1: Street, Commercial, & Trades Directories)"
+  },
+  {
+   "label": "Historical information",
+   "value": "For background historical information about trade directories visit http://specialcollections.le.ac.uk/digital/collection/p16445coll4/custom/background"
+  },
+  {
+   "label": "Identifier",
+   "value": "BCL13001A"
+  },
+  {
+   "label": "Language",
+   "value": "English"
+  },
+  {
+   "label": "Location",
+   "value": "United Kingdom -- England -- London"
+  },
+  {
+   "label": "Metadata Licence",
+   "value": "You can re-use this metadata record under a Creative Commons Zero \u2018no rights reserved\u2019 licence: http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+   "label": "Period covered",
+   "value": "1840-1849"
+  },
+  {
+   "label": "Place (county)",
+   "value": "London"
+  },
+  {
+   "label": "Publisher",
+   "value": "Kelly's Directories Limited"
+  },
+  {
+   "label": "Region",
+   "value": "Greater London"
+  },
+  {
+   "label": "Rights",
+   "value": "You may use this item in accordance with the Creative Commons Attribution-NonCommercial 2.0 UK: England & Wales License: http://creativecommons.org/licenses/by-nc/2.0/uk/"
+  },
+  {
+   "label": "Subject",
+   "value": "Historical directories"
+  },
+  {
+   "label": "Themes",
+   "value": "Directory"
+  },
+  {
+   "label": "Title",
+   "value": "Post Office London Directory, 1841. [Part 1: Street, Commercial, & Trades Directories)"
+  },
+  {
+   "label": "Type",
+   "value": "Directory"
+  },
+  {
+   "label": "Repository",
+   "value": "Special Collections"
+  },
+  {
+   "label": "Source",
+   "value": "<span>From: <a href=\"https://leicester.contentdm.oclc.org/digital/collection/p16445coll4/id/8844\">Post Office London Directory, 1841. [Part 1: Street, Commercial, & Trades Directories)</a></span>"
+  }
+ ],
+ "attribution": [
+  "",
+  "You can re-use this metadata record under a Creative Commons Zero \u2018no rights reserved\u2019 licence: http://creativecommons.org/publicdomain/zero/1.0/",
+  "",
+  "You may use this item in accordance with the Creative Commons Attribution-NonCommercial 2.0 UK: England & Wales License: http://creativecommons.org/licenses/by-nc/2.0/uk/"
+ ],
+ "seeAlso": {
+  "@id": "https://cdm16445.contentdm.oclc.org/oai/oai.php?verb=GetRecord&identifier=oai:cdm16445.contentdm.oclc.org:p16445coll4/8844&metadataPrefix=oai_qdc",
+  "format": "application/xml",
+  "profile": "http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"
+ },
+ "within": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4/manifest.json",
+ "sequences": [
+  {
+   "@id": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:8844/sequence/s0",
+   "@type": "sc:Sequence",
+   "label": "Post Office London Directory, 1841. [Part 1: Street, Commercial, & Trades Directories)",
+   "canvases": [
+    {
+     "@id": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673",
+     "@type": "sc:Canvas",
+     "label": "Post Office London Directory, 1841. [Part 1: Street, Commercial, & Trades Directories) - Page 674",
+     "images": [
+      {
+       "@id": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/annotation/a673",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "resource": {
+        "@id": "https://cdm16445.contentdm.oclc.org/iiif/2/p16445coll4:27074/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://cdm16445.contentdm.oclc.org/iiif/2/p16445coll4:27074",
+         "width": 4561,
+         "height": 6283,
+         "tiles": [
+          {
+           "width": 4561,
+           "scaleFactors": [
+            1,
+            2,
+            4,
+            8,
+            16
+           ]
+          }
+         ],
+         "profile": "http://iiif.io/api/image/2/level1.json",
+         "protocol": "http://iiif.io/api/image"
+        },
+        "format": "image/jpeg",
+        "width": 4561,
+        "height": 6283
+       },
+       "on": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673"
+      }
+     ],
+     "width": 4561,
+     "height": 6283
+    },
+    {
+     "@id": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27075/canvas/c674",
+     "@type": "sc:Canvas",
+     "label": "Post Office London Directory, 1841. [Part 1: Street, Commercial, & Trades Directories) - Page 675",
+     "images": [
+      {
+       "@id": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27075/annotation/a674",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "resource": {
+        "@id": "https://cdm16445.contentdm.oclc.org/iiif/2/p16445coll4:27075/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://cdm16445.contentdm.oclc.org/iiif/2/p16445coll4:27075",
+         "width": 4550,
+         "height": 6275,
+         "tiles": [
+          {
+           "width": 4550,
+           "scaleFactors": [
+            1,
+            2,
+            4,
+            8,
+            16
+           ]
+          }
+         ],
+         "profile": "http://iiif.io/api/image/2/level1.json",
+         "protocol": "http://iiif.io/api/image"
+        },
+        "format": "image/jpeg",
+        "width": 4550,
+        "height": 6275
+       },
+       "on": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27075/canvas/c674"
+      }
+     ],
+     "width": 4550,
+     "height": 6275
+    },
+    {
+     "@id": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27076/canvas/c675",
+     "@type": "sc:Canvas",
+     "label": "Post Office London Directory, 1841. [Part 1: Street, Commercial, & Trades Directories) - Page 676",
+     "images": [
+      {
+       "@id": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27076/annotation/a675",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "resource": {
+        "@id": "https://cdm16445.contentdm.oclc.org/iiif/2/p16445coll4:27076/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://cdm16445.contentdm.oclc.org/iiif/2/p16445coll4:27076",
+         "width": 4550,
+         "height": 6275,
+         "tiles": [
+          {
+           "width": 4550,
+           "scaleFactors": [
+            1,
+            2,
+            4,
+            8,
+            16
+           ]
+          }
+         ],
+         "profile": "http://iiif.io/api/image/2/level1.json",
+         "protocol": "http://iiif.io/api/image"
+        },
+        "format": "image/jpeg",
+        "width": 4550,
+        "height": 6275
+       },
+       "on": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27076/canvas/c675"
+      }
+     ],
+     "width": 4550,
+     "height": 6275
+    },
+    {
+     "@id": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27077/canvas/c676",
+     "@type": "sc:Canvas",
+     "label": "Post Office London Directory, 1841. [Part 1: Street, Commercial, & Trades Directories) - Page 677",
+     "images": [
+      {
+       "@id": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27077/annotation/a676",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "resource": {
+        "@id": "https://cdm16445.contentdm.oclc.org/iiif/2/p16445coll4:27077/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://cdm16445.contentdm.oclc.org/iiif/2/p16445coll4:27077",
+         "width": 4550,
+         "height": 6275,
+         "tiles": [
+          {
+           "width": 4550,
+           "scaleFactors": [
+            1,
+            2,
+            4,
+            8,
+            16
+           ]
+          }
+         ],
+         "profile": "http://iiif.io/api/image/2/level1.json",
+         "protocol": "http://iiif.io/api/image"
+        },
+        "format": "image/jpeg",
+        "width": 4550,
+        "height": 6275
+       },
+       "on": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27077/canvas/c676"
+      }
+     ],
+     "width": 4550,
+     "height": 6275
+    }
+   ]
+  }
+ ]
+}

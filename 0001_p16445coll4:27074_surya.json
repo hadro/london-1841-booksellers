@@ -1,0 +1,1806 @@
+{
+  "image_width": 4550,
+  "image_height": 6274,
+  "lines": [
+    {
+      "bbox": [
+        633,
+        337,
+        811,
+        409
+      ],
+      "text": "646",
+      "confidence": 0.8821
+    },
+    {
+      "bbox": [
+        1840,
+        337,
+        2683,
+        409
+      ],
+      "text": "TRADES' DIRECTORY.",
+      "confidence": 0.9985
+    },
+    {
+      "bbox": [
+        3628,
+        340,
+        3897,
+        421
+      ],
+      "text": "1841.",
+      "confidence": 0.5926
+    },
+    {
+      "bbox": [
+        1689,
+        484,
+        3892,
+        550
+      ],
+      "text": "| Madden & Co. (oriental), & Leadenhall st | Baynes Richard, 28 Paternoster row",
+      "confidence": 0.9288
+    },
+    {
+      "bbox": [
+        712,
+        490,
+        1603,
+        539
+      ],
+      "text": "BOOKBINDERS—continued.",
+      "confidence": 0.9172
+    },
+    {
+      "bbox": [
+        591,
+        551,
+        3681,
+        609
+      ],
+      "text": "Wilson Joseph, 22 Ray st. Clerkenwell | Miller John (american), 26 Henrietta st | Bell George, 186 Fleet street",
+      "confidence": 0.981
+    },
+    {
+      "bbox": [
+        587,
+        615,
+        3859,
+        675
+      ],
+      "text": "Wilton Wm. 6 Cursitorst. Chancery lane Molini C. F. (italian), 14 Paternoster rw Bell James, 11 Finch lane, Cornhil",
+      "confidence": 0.9928
+    },
+    {
+      "bbox": [
+        2831,
+        676,
+        3966,
+        745
+      ],
+      "text": "Bellchamber J.33 A, King st. Westmastr",
+      "confidence": 0.972
+    },
+    {
+      "bbox": [
+        591,
+        679,
+        2529,
+        737
+      ],
+      "text": "Wingrove D. 44 Commercial rd. Lambeth Nutt David, 158 Fleet street",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        579,
+        736,
+        2666,
+        873
+      ],
+      "text": "Wolfer William, 52 Drury lane Rolandi Peter, 20 Berners street Woolnough C.6 Batemans rw. Shoreditch Schloss Albert, 12 Berners street",
+      "confidence": 0.9878
+    },
+    {
+      "bbox": [
+        2825,
+        738,
+        3966,
+        808
+      ],
+      "text": "Bennet Edm. 22 Gt. Knightrider street",
+      "confidence": 0.4378
+    },
+    {
+      "bbox": [
+        2832,
+        809,
+        3920,
+        866
+      ],
+      "text": "Bennett Thomas, 4 Copthall buildings",
+      "confidence": 0.9537
+    },
+    {
+      "bbox": [
+        2824,
+        866,
+        3970,
+        937
+      ],
+      "text": "| Bennett Wm. 4 Three tuns pas. Nwg. st",
+      "confidence": 0.3609
+    },
+    {
+      "bbox": [
+        587,
+        871,
+        2798,
+        933
+      ],
+      "text": "Woolnough S. 7 Up. James st. Golden sq Senior Charles & Henry, 49 Pall mall",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        587,
+        934,
+        3954,
+        997
+      ],
+      "text": "Worthington Thos. 3 High st. Kensington Wiley&Putnam (amer.) 35 Paternostr. r Bentley Richard, 8 New Burlington st",
+      "confidence": 0.9825
+    },
+    {
+      "bbox": [
+        2841,
+        997,
+        3960,
+        1063
+      ],
+      "text": "+Berger George, 19 Holywell st. Strand",
+      "confidence": 0.5159
+    },
+    {
+      "bbox": [
+        590,
+        1000,
+        1726,
+        1062
+      ],
+      "text": "Wright John, 21 Noel street, Berwick st",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        2846,
+        1064,
+        3963,
+        1126
+      ],
+      "text": "Betts John, 7 Compton st. Brunswick sq",
+      "confidence": 0.9995
+    },
+    {
+      "bbox": [
+        1945,
+        1069,
+        2601,
+        1119
+      ],
+      "text": "Booksellers-Law.",
+      "confidence": 0.9429
+    },
+    {
+      "bbox": [
+        2843,
+        1128,
+        3962,
+        1184
+      ],
+      "text": "Bickers H. 9 Leicester st. & 1 Leicester so",
+      "confidence": 0.9243
+    },
+    {
+      "bbox": [
+        1976,
+        1131,
+        2580,
+        1188
+      ],
+      "text": "See Law Directory.",
+      "confidence": 0.9761
+    },
+    {
+      "bbox": [
+        674,
+        1134,
+        1300,
+        1183
+      ],
+      "text": "<b>BOOKBINDERS'</b>",
+      "confidence": 0.9264
+    },
+    {
+      "bbox": [
+        1321,
+        1134,
+        1613,
+        1178
+      ],
+      "text": "CLOTH",
+      "confidence": 0.8994
+    },
+    {
+      "bbox": [
+        947,
+        1194,
+        1342,
+        1247
+      ],
+      "text": "MAKERS.",
+      "confidence": 0.9595
+    },
+    {
+      "bbox": [
+        2847,
+        1194,
+        3916,
+        1248
+      ],
+      "text": "Bigg James, 34 Holywell st. Millbank",
+      "confidence": 0.9662
+    },
+    {
+      "bbox": [
+        589,
+        1256,
+        1719,
+        1316
+      ],
+      "text": "Ford & Brocklehurst, 50 Bow la. Cheapsil",
+      "confidence": 0.986
+    },
+    {
+      "bbox": [
+        2839,
+        1256,
+        3966,
+        1313
+      ],
+      "text": "Bigg James & Son, 53 Parliament street",
+      "confidence": 0.5131
+    },
+    {
+      "bbox": [
+        1884,
+        1262,
+        2676,
+        1311
+      ],
+      "text": "Booksellers-Medical.",
+      "confidence": 0.8804
+    },
+    {
+      "bbox": [
+        2834,
+        1318,
+        3964,
+        1380
+      ],
+      "text": "| | Billinghurst John, 24 Brixton place &",
+      "confidence": 0.4447
+    },
+    {
+      "bbox": [
+        1764,
+        1330,
+        2740,
+        1384
+      ],
+      "text": "Marked thus + are Medical Librarians.",
+      "confidence": 0.986
+    },
+    {
+      "bbox": [
+        2899,
+        1385,
+        3830,
+        1442
+      ],
+      "text": "3 Chapterhouse court, St. Paul's",
+      "confidence": 0.994
+    },
+    {
+      "bbox": [
+        614,
+        1389,
+        1679,
+        1435
+      ],
+      "text": "BOOKBINDERS' LEATHER",
+      "confidence": 0.8386
+    },
+    {
+      "bbox": [
+        1774,
+        1391,
+        2525,
+        1433
+      ],
+      "text": "Marked thus * are Publishers.",
+      "confidence": 0.9382
+    },
+    {
+      "bbox": [
+        2830,
+        1445,
+        3975,
+        1508
+      ],
+      "text": "*||abBingham C.E. 62 Mount st. Berkl. sq",
+      "confidence": 0.4601
+    },
+    {
+      "bbox": [
+        970,
+        1452,
+        1327,
+        1498
+      ],
+      "text": "SELLER.",
+      "confidence": 0.9629
+    },
+    {
+      "bbox": [
+        1710,
+        1458,
+        2764,
+        1513
+      ],
+      "text": "Burgess Thomas, 28 Coventry street",
+      "confidence": 0.9945
+    },
+    {
+      "bbox": [
+        1707,
+        1506,
+        3896,
+        1583
+      ],
+      "text": "Butler Joseph, 4 St. Thomas'st. Borough | Birkett Richard, 27 Norton folgate",
+      "confidence": 0.9971
+    },
+    {
+      "bbox": [
+        591,
+        1514,
+        1649,
+        1569
+      ],
+      "text": "Ford Wm. 69 Wood street, Cheapside",
+      "confidence": 0.9979
+    },
+    {
+      "bbox": [
+        1712,
+        1573,
+        3971,
+        1645
+      ],
+      "text": "†Churchill John, 16 Princes st. Leices.sq | Blackie John & Son, 21 Warwick square",
+      "confidence": 0.9915
+    },
+    {
+      "bbox": [
+        1704,
+        1639,
+        3967,
+        1707
+      ],
+      "text": "Cox Mrs. Elizh. 13½ St. Thomas st. Boro' Blake Benjamin, 13Bell yard, Temple bar",
+      "confidence": 0.5582
+    },
+    {
+      "bbox": [
+        658,
+        1643,
+        1635,
+        1692
+      ],
+      "text": "BOOKBINDERS' PLOUGH",
+      "confidence": 0.8267
+    },
+    {
+      "bbox": [
+        2838,
+        1704,
+        3967,
+        1762
+      ],
+      "text": "Bohn Hen. G.4&5York st. Covent garden",
+      "confidence": 0.9864
+    },
+    {
+      "bbox": [
+        1706,
+        1708,
+        2616,
+        1766
+      ],
+      "text": "Highly Samuel, 32 Fleet street",
+      "confidence": 0.9443
+    },
+    {
+      "bbox": [
+        822,
+        1710,
+        1471,
+        1757
+      ],
+      "text": "KNIFE MAKER.",
+      "confidence": 0.8007
+    },
+    {
+      "bbox": [
+        586,
+        1765,
+        2800,
+        1835
+      ],
+      "text": "Allan Wm. 27 Gt.St.Andrew st.Seven dls Hill T. 55 Gt. Windmill st. Haymarket",
+      "confidence": 0.9907
+    },
+    {
+      "bbox": [
+        2839,
+        1769,
+        3966,
+        1825
+      ],
+      "text": "Bohn Jas. 12 King William street, Strand",
+      "confidence": 0.9067
+    },
+    {
+      "bbox": [
+        2839,
+        1833,
+        3966,
+        1889
+      ],
+      "text": "Bohn John, 17 Henrietta st. Covent grdn",
+      "confidence": 0.9802
+    },
+    {
+      "bbox": [
+        1713,
+        1838,
+        2722,
+        1894
+      ],
+      "text": "Jones Thomas, 91 Aldersgate street",
+      "confidence": 0.9335
+    },
+    {
+      "bbox": [
+        1714,
+        1890,
+        3973,
+        1967
+      ],
+      "text": "†Jackson Mrs. Harriet, 32 King st. Boro' | †Boone Thos. & Wm. 29 New Bond street",
+      "confidence": 0.2421
+    },
+    {
+      "bbox": [
+        687,
+        1899,
+        1607,
+        1954
+      ],
+      "text": "BOOKBINDERS' PRESS",
+      "confidence": 0.8147
+    },
+    {
+      "bbox": [
+        2833,
+        1958,
+        3946,
+        2020
+      ],
+      "text": "|||Booth Lionel, Duke st. Portland place",
+      "confidence": 0.6114
+    },
+    {
+      "bbox": [
+        1721,
+        1966,
+        2817,
+        2026
+      ],
+      "text": "Moore Miss Jane, 9 Gower street north",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        951,
+        1968,
+        1349,
+        2015
+      ],
+      "text": "MAKERS.",
+      "confidence": 0.9621
+    },
+    {
+      "bbox": [
+        2843,
+        2025,
+        3943,
+        2083
+      ],
+      "text": "Boswood Miss M. 4 York pl. Islington",
+      "confidence": 0.9803
+    },
+    {
+      "bbox": [
+        822,
+        2030,
+        1497,
+        2082
+      ],
+      "text": "See also Press Makers.",
+      "confidence": 0.9813
+    },
+    {
+      "bbox": [
+        1710,
+        2030,
+        2559,
+        2088
+      ],
+      "text": "*Renshaw Henry, 356 Strand",
+      "confidence": 0.9643
+    },
+    {
+      "bbox": [
+        2836,
+        2087,
+        3912,
+        2150
+      ],
+      "text": "|||t¶bBowdery & Kerby, 190 Oxford st",
+      "confidence": 0.8105
+    },
+    {
+      "bbox": [
+        594,
+        2093,
+        2802,
+        2154
+      ],
+      "text": "Dafforn & Son, 22 Mitchell st. St. Luke's Turner Caleb, Church street Hackney",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        1716,
+        2150,
+        3978,
+        2219
+      ],
+      "text": "Whiting Wm. 15 King street, Borough | Bowron George, 213 Oxford street &",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        595,
+        2158,
+        1717,
+        2218
+      ],
+      "text": "Hampson Wm. 52 Long lane, Smithfield",
+      "confidence": 0.8867
+    },
+    {
+      "bbox": [
+        2906,
+        2215,
+        3888,
+        2275
+      ],
+      "text": "11 Dartmouth street, Westminster",
+      "confidence": 0.9978
+    },
+    {
+      "bbox": [
+        2837,
+        2277,
+        3979,
+        2338
+      ],
+      "text": "$$\\$BoyceFred.25Motcombst.Belgravesq",
+      "confidence": 0.6996
+    },
+    {
+      "bbox": [
+        594,
+        2289,
+        1722,
+        2337
+      ],
+      "text": "BOOKSINDERS' TOOL CUT-",
+      "confidence": 0.8738
+    },
+    {
+      "bbox": [
+        1827,
+        2292,
+        2745,
+        2343
+      ],
+      "text": "Booksellers—Theological.",
+      "confidence": 0.8257
+    },
+    {
+      "bbox": [
+        1728,
+        2335,
+        3912,
+        2415
+      ],
+      "text": "Darling Jas. 21&22 Lit. Queen st. Holborn Boyls Mrs. R. 16 Grey st. Oxford st",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        720,
+        2355,
+        1596,
+        2404
+      ],
+      "text": "TERS & ENGRAVERS.",
+      "confidence": 0.8495
+    },
+    {
+      "bbox": [
+        1723,
+        2393,
+        3973,
+        2481
+      ],
+      "text": "Leslie John, 52 Gt. Queen st. Lin. inn fi Bradbery Mrs. S. 2 Michael's pl. Bromp",
+      "confidence": 0.9851
+    },
+    {
+      "bbox": [
+        595,
+        2412,
+        1675,
+        2467
+      ],
+      "text": "Allen Mrs. Ann, 25 New st. Cloth fair",
+      "confidence": 0.9859
+    },
+    {
+      "bbox": [
+        1713,
+        2461,
+        3973,
+        2543
+      ],
+      "text": "Stewart Chas. J. 11 King Wm. st. Strand Braithwaite C. 130 Mount st. Bkly. sq",
+      "confidence": 0.7067
+    },
+    {
+      "bbox": [
+        595,
+        2475,
+        1660,
+        2531
+      ],
+      "text": "Allen Charles, 81 Gt. Portland street",
+      "confidence": 0.9483
+    },
+    {
+      "bbox": [
+        2843,
+        2530,
+        3969,
+        2588
+      ],
+      "text": "Brassington&Field,27Highst.Knsngtn",
+      "confidence": 0.8436
+    },
+    {
+      "bbox": [
+        593,
+        2534,
+        2550,
+        2603
+      ],
+      "text": "Beard Fred. 21 Sekford st. Clerkenwell | Straker William, 443 Strand",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        2851,
+        2597,
+        3947,
+        2651
+      ],
+      "text": "¶¶aBrittain & Co. 73 Blackman street",
+      "confidence": 0.2231
+    },
+    {
+      "bbox": [
+        595,
+        2604,
+        1732,
+        2658
+      ],
+      "text": "Cox Ebenezer, 31 Brooke street, Holborn",
+      "confidence": 0.9983
+    },
+    {
+      "bbox": [
+        2843,
+        2660,
+        3920,
+        2715
+      ],
+      "text": "Brittain William, 11 Paternoster row",
+      "confidence": 0.4127
+    },
+    {
+      "bbox": [
+        593,
+        2664,
+        1738,
+        2724
+      ],
+      "text": "Hall Geo. 28 Webbs county ter. N. Kentrd",
+      "confidence": 0.9987
+    },
+    {
+      "bbox": [
+        1860,
+        2671,
+        2709,
+        2722
+      ],
+      "text": "Booksellers in General.",
+      "confidence": 0.8602
+    },
+    {
+      "bbox": [
+        593,
+        2719,
+        3952,
+        2795
+      ],
+      "text": "Knight James (steel), 37 Chandos street | See also Bookbinders; Printsellers; | Britten Wm. 7 Russell court, Drury la",
+      "confidence": 0.9901
+    },
+    {
+      "bbox": [
+        1766,
+        2781,
+        3901,
+        2861
+      ],
+      "text": "Pocketbookmakers; Printers; Print-||Brooks Henry, 87 New Bond street",
+      "confidence": 0.9159
+    },
+    {
+      "bbox": [
+        595,
+        2792,
+        1698,
+        2849
+      ],
+      "text": "Knight Saml. 6 Prujean sq. Old Bailey",
+      "confidence": 0.9526
+    },
+    {
+      "bbox": [
+        2843,
+        2853,
+        3856,
+        2908
+      ],
+      "text": "|| Brooks Henry, 319 Regent street",
+      "confidence": 0.6868
+    },
+    {
+      "bbox": [
+        597,
+        2854,
+        1684,
+        2911
+      ],
+      "text": "Leeuw & Kronheim, 90 Hatton garden",
+      "confidence": 0.9796
+    },
+    {
+      "bbox": [
+        1770,
+        2859,
+        2479,
+        2915
+      ],
+      "text": "sellers; and Stationers.",
+      "confidence": 0.8708
+    },
+    {
+      "bbox": [
+        2855,
+        2913,
+        3966,
+        2970
+      ],
+      "text": "*†Brown Mrs.Jane, 10 Duke st. Manch.sq",
+      "confidence": 0.9559
+    },
+    {
+      "bbox": [
+        595,
+        2919,
+        1638,
+        2973
+      ],
+      "text": "Morris Joseph & Co. 35 Ludgate hill",
+      "confidence": 0.9504
+    },
+    {
+      "bbox": [
+        1777,
+        2937,
+        2522,
+        2986
+      ],
+      "text": "Marked thus + are Publishers.",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        2858,
+        2980,
+        3852,
+        3035
+      ],
+      "text": "Brown William, 104 High Holborn",
+      "confidence": 0.9559
+    },
+    {
+      "bbox": [
+        595,
+        2981,
+        1725,
+        3036
+      ],
+      "text": "Morris Chas. 44 Kirby st. Hatton garden",
+      "confidence": 0.9703
+    },
+    {
+      "bbox": [
+        1778,
+        2994,
+        2472,
+        3036
+      ],
+      "text": "Marked thus * are Printers.",
+      "confidence": 0.9748
+    },
+    {
+      "bbox": [
+        592,
+        3040,
+        1728,
+        3102
+      ],
+      "text": "Royle Geo. 20 Ivy lane, Newgate street",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        2855,
+        3043,
+        3931,
+        3098
+      ],
+      "text": "Brown William, 130 Old st. St. Luke's",
+      "confidence": 0.9438
+    },
+    {
+      "bbox": [
+        1770,
+        3050,
+        2525,
+        3096
+      ],
+      "text": "Marked thus § are Librarians.",
+      "confidence": 0.9154
+    },
+    {
+      "bbox": [
+        1774,
+        3103,
+        2722,
+        3152
+      ],
+      "text": "Marked thus | are General Stationers.",
+      "confidence": 0.9469
+    },
+    {
+      "bbox": [
+        586,
+        3104,
+        1670,
+        3163
+      ],
+      "text": "Seare Samuel & Co. 44 High Holborn",
+      "confidence": 0.9918
+    },
+    {
+      "bbox": [
+        2855,
+        3107,
+        3969,
+        3162
+      ],
+      "text": "Brumby John, 24 Haymrkt. & 1 Panton st",
+      "confidence": 0.9272
+    },
+    {
+      "bbox": [
+        1777,
+        3157,
+        2678,
+        3206
+      ],
+      "text": "Marked thus I are Fancy Stationers.",
+      "confidence": 0.9991
+    },
+    {
+      "bbox": [
+        583,
+        3168,
+        1679,
+        3226
+      ],
+      "text": "Staples Thomas, 30 Castle st. Holborn",
+      "confidence": 0.9237
+    },
+    {
+      "bbox": [
+        2855,
+        3170,
+        3966,
+        3226
+      ],
+      "text": "dBryant John, 9 KingWilliam st. Strand",
+      "confidence": 0.6207
+    },
+    {
+      "bbox": [
+        1778,
+        3213,
+        2551,
+        3255
+      ],
+      "text": "Marked thus I are Printsellers.",
+      "confidence": 0.9814
+    },
+    {
+      "bbox": [
+        2841,
+        3231,
+        3967,
+        3292
+      ],
+      "text": "t&Bull Edward, 19 Holles st. Cavendish sq",
+      "confidence": 0.4611
+    },
+    {
+      "bbox": [
+        591,
+        3233,
+        1592,
+        3288
+      ],
+      "text": "Tinbury Frederick, 104 Fetter lane",
+      "confidence": 0.9419
+    },
+    {
+      "bbox": [
+        1772,
+        3264,
+        2572,
+        3311
+      ],
+      "text": "Marked thus a are Newsvenders.",
+      "confidence": 0.9943
+    },
+    {
+      "bbox": [
+        593,
+        3294,
+        1685,
+        3355
+      ],
+      "text": "Wood & Sharwoods, 120 Aldersgate st",
+      "confidence": 0.9986
+    },
+    {
+      "bbox": [
+        2849,
+        3294,
+        3952,
+        3355
+      ],
+      "text": "<sup>a</sup>Bullock William, 3 Clerkenwell green",
+      "confidence": 0.9323
+    },
+    {
+      "bbox": [
+        1776,
+        3319,
+        2796,
+        3366
+      ],
+      "text": "Marked thus b are Account-book makers.",
+      "confidence": 0.9923
+    },
+    {
+      "bbox": [
+        2841,
+        3357,
+        3953,
+        3423
+      ],
+      "text": "*\\|\\|\\abBult Benjn. E. 25 New Quebec st",
+      "confidence": 0.5089
+    },
+    {
+      "bbox": [
+        1778,
+        3377,
+        2555,
+        3419
+      ],
+      "text": "Marked thus c are Bookbinders.",
+      "confidence": 0.953
+    },
+    {
+      "bbox": [
+        2867,
+        3420,
+        3833,
+        3486
+      ],
+      "text": "Bumpus Thomas, 6 Holborn bars",
+      "confidence": 0.9315
+    },
+    {
+      "bbox": [
+        1772,
+        3426,
+        2758,
+        3480
+      ],
+      "text": "Marked thus d are Foreign Booksellers.",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        750,
+        3428,
+        1550,
+        3476
+      ],
+      "text": "BOOKING OFFICES.",
+      "confidence": 0.8026
+    },
+    {
+      "bbox": [
+        1774,
+        3480,
+        2756,
+        3535
+      ],
+      "text": "Marked thus e are Juvenile Booksellers.",
+      "confidence": 0.986
+    },
+    {
+      "bbox": [
+        2871,
+        3483,
+        3972,
+        3546
+      ],
+      "text": "Bunce Wm. 8 Charles st. Westminster",
+      "confidence": 0.9727
+    },
+    {
+      "bbox": [
+        739,
+        3488,
+        1576,
+        3549
+      ],
+      "text": "See Conveyance Directory.",
+      "confidence": 0.999
+    },
+    {
+      "bbox": [
+        2849,
+        3547,
+        3975,
+        3615
+      ],
+      "text": "Bunting Wm. 9 Russell court, Drury la",
+      "confidence": 0.9828
+    },
+    {
+      "bbox": [
+        1725,
+        3553,
+        2699,
+        3604
+      ],
+      "text": "Aaron Mrs. R. 10 Goodman's stile",
+      "confidence": 0.9837
+    },
+    {
+      "bbox": [
+        2843,
+        3615,
+        3859,
+        3673
+      ],
+      "text": "Burn James, 11 Kennington green",
+      "confidence": 0.7338
+    },
+    {
+      "bbox": [
+        1705,
+        3616,
+        2655,
+        3671
+      ],
+      "text": "|||†‡¶Ackermann & Co. 96 Strand",
+      "confidence": 0.6454
+    },
+    {
+      "bbox": [
+        837,
+        3619,
+        1456,
+        3668
+      ],
+      "text": "BOOKSELLERS.",
+      "confidence": 0.737
+    },
+    {
+      "bbox": [
+        1758,
+        3674,
+        3975,
+        3742
+      ],
+      "text": "Adamson Ch. 25 Bedford st. Cov. gardn t Burns Jas. 17 Portman st. Portman sq",
+      "confidence": 0.9364
+    },
+    {
+      "bbox": [
+        1712,
+        3741,
+        2690,
+        3801
+      ],
+      "text": "†Aitken William, 172 Fleet street",
+      "confidence": 0.4959
+    },
+    {
+      "bbox": [
+        2832,
+        3744,
+        3973,
+        3799
+      ],
+      "text": "Burt Augustus Austin, 47 Gt. Queen st",
+      "confidence": 0.9675
+    },
+    {
+      "bbox": [
+        690,
+        3748,
+        1603,
+        3799
+      ],
+      "text": "Bookseller—Agricultural.",
+      "confidence": 0.8492
+    },
+    {
+      "bbox": [
+        1721,
+        3806,
+        3950,
+        3864
+      ],
+      "text": "Akerman S. C. 4 Greville st. Hatton gar Burton John, 19 St. Martin's le grand",
+      "confidence": 0.9972
+    },
+    {
+      "bbox": [
+        587,
+        3808,
+        1463,
+        3865
+      ],
+      "text": "Wright Henry, 51 Haymarket",
+      "confidence": 0.9749
+    },
+    {
+      "bbox": [
+        1713,
+        3868,
+        3886,
+        3926
+      ],
+      "text": "†Allen James, 19 Warwick la. Ptnstr. row | † | ab Byfield Robert, 21 Charing cross",
+      "confidence": 0.9936
+    },
+    {
+      "bbox": [
+        1719,
+        3928,
+        3929,
+        3994
+      ],
+      "text": "$\\|\\pmontum\\and Allason William, 31 New Bond street Byworth Geo. 16 Duke st. Smithfield",
+      "confidence": 0.172
+    },
+    {
+      "bbox": [
+        613,
+        3938,
+        1688,
+        3989
+      ],
+      "text": "Booksellers—Architectural &",
+      "confidence": 0.7771
+    },
+    {
+      "bbox": [
+        1716,
+        3992,
+        3648,
+        4056
+      ],
+      "text": "† Allen Wm. H. & Co.7 Leadenhall street | † Cadell Thomas, 141 Strand",
+      "confidence": 0.4707
+    },
+    {
+      "bbox": [
+        701,
+        4004,
+        1600,
+        4055
+      ],
+      "text": "Engineering & Scientific.",
+      "confidence": 0.9458
+    },
+    {
+      "bbox": [
+        582,
+        4052,
+        3979,
+        4129
+      ],
+      "text": "Maynard Sl. 8 Earl's court, Leicester sq Allen Mrs. Rebecca, 65 Sun st. Bishopsgt | Caines Geo. C. & Co. 2 Halkin st. west",
+      "confidence": 0.9354
+    },
+    {
+      "bbox": [
+        1702,
+        4121,
+        3973,
+        4179
+      ],
+      "text": "| + Allman Thomas, 42 Holborn hill | + | a Calder Francis William, 199 Oxford st",
+      "confidence": 0.977
+    },
+    {
+      "bbox": [
+        585,
+        4123,
+        1696,
+        4186
+      ],
+      "text": "Reid William Henry, 15 Charing cross",
+      "confidence": 0.9988
+    },
+    {
+      "bbox": [
+        1712,
+        4179,
+        3974,
+        4249
+      ],
+      "text": "||Allum Manoah, 29 Brick la. Spitalfields ||Calf Mrs. S. 116Edgware rd. Marylebo",
+      "confidence": 0.6603
+    },
+    {
+      "bbox": [
+        587,
+        4187,
+        1452,
+        4244
+      ],
+      "text": "Weale John, 59 High Holborn",
+      "confidence": 0.9792
+    },
+    {
+      "bbox": [
+        587,
+        4248,
+        3716,
+        4310
+      ],
+      "text": "Williams John, 106 Gt. Russell st. Blomsb | Andrews John, 167 New Bond street | Calkin & Budd, 118 Pall mall",
+      "confidence": 0.9997
+    },
+    {
+      "bbox": [
+        1721,
+        4314,
+        3928,
+        4374
+      ],
+      "text": "Anyon S. F. & S. 19 New st. Dorset sq | Capener John, 203 Sloane st. Chelsea",
+      "confidence": 0.535
+    },
+    {
+      "bbox": [
+        1713,
+        4376,
+        3966,
+        4439
+      ],
+      "text": "Appleton Daniel & Co. 16 Little Britain | Capes Joseph, & Co. 6 Paternoster row",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        746,
+        4385,
+        1558,
+        4435
+      ],
+      "text": "Bookseller—Botanical,",
+      "confidence": 0.8587
+    },
+    {
+      "bbox": [
+        1713,
+        4441,
+        3943,
+        4502
+      ],
+      "text": "Archer William, 88 Berwick st. Soho | †Carpenter James, 14 Old Bond street",
+      "confidence": 0.9996
+    },
+    {
+      "bbox": [
+        583,
+        4448,
+        1698,
+        4504
+      ],
+      "text": "Pamplin William, 9 Queen street, Soho",
+      "confidence": 0.9722
+    },
+    {
+      "bbox": [
+        1706,
+        4507,
+        3973,
+        4565
+      ],
+      "text": "Arnold Henry, 45 Marchmont street et Carpenter N. 60 Spencer st. Goswell st",
+      "confidence": 0.3505
+    },
+    {
+      "bbox": [
+        1705,
+        4569,
+        3970,
+        4632
+      ],
+      "text": "| †*Ascham John James, 71 Chancery lane | \\sigma^a Carter D.1 Woburn bldgns Tavistock sq",
+      "confidence": 0.4257
+    },
+    {
+      "bbox": [
+        748,
+        4577,
+        1548,
+        4633
+      ],
+      "text": "Booksellers—Foreign.",
+      "confidence": 0.9818
+    },
+    {
+      "bbox": [
+        2826,
+        4633,
+        3968,
+        4694
+      ],
+      "text": "e+Carvalho David Nunes, 147 Fleet street",
+      "confidence": 0.6962
+    },
+    {
+      "bbox": [
+        1705,
+        4634,
+        2689,
+        4694
+      ],
+      "text": "|||t¶ Ashley James, 37 Haymarket",
+      "confidence": 0.538
+    },
+    {
+      "bbox": [
+        674,
+        4638,
+        1622,
+        4692
+      ],
+      "text": "See also Booksellers in General.",
+      "confidence": 0.9618
+    },
+    {
+      "bbox": [
+        2833,
+        4697,
+        3966,
+        4758
+      ],
+      "text": "TCaulfield Wm. 28 Red Lion st. Holborn",
+      "confidence": 0.3534
+    },
+    {
+      "bbox": [
+        582,
+        4698,
+        2738,
+        4757
+      ],
+      "text": "Alexandre A. 37 Gt. Russell st. Blmsbury | Atkinson Thomas, 46 Judd street",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        583,
+        4760,
+        3970,
+        4828
+      ],
+      "text": "Asher Adolphus, 158 Fleet st. & at Berlin | Attwood Mrs. M. 39 Gt. Castle st. Rgt. st | Cawthorn Mrs. Maria H.24 Cockspurst",
+      "confidence": 0.9822
+    },
+    {
+      "bbox": [
+        2829,
+        4823,
+        3912,
+        4893
+      ],
+      "text": "Central Tract Depôt, 1 Warwick sq",
+      "confidence": 0.9931
+    },
+    {
+      "bbox": [
+        580,
+        4829,
+        2805,
+        4887
+      ],
+      "text": "Bagster & Marshall (american com. | Bagster Samuel, 15 Paternoster row",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        634,
+        4888,
+        1486,
+        4950
+      ],
+      "text": "agents), 13 Paternoster row",
+      "confidence": 0.9201
+    },
+    {
+      "bbox": [
+        1689,
+        4890,
+        2810,
+        4953
+      ],
+      "text": "| | | | | | | | | | | Baily Alfred H. & Co. 83 Cornhill |",
+      "confidence": 0.6574
+    },
+    {
+      "bbox": [
+        2825,
+        4890,
+        3915,
+        4956
+      ],
+      "text": "Chambers Walter Henry, 26 Lisle st",
+      "confidence": 0.2677
+    },
+    {
+      "bbox": [
+        580,
+        4957,
+        2517,
+        5015
+      ],
+      "text": "Baillieré Hippolite, 219 Regent street | dBain James, 1 Haymarket",
+      "confidence": 0.9866
+    },
+    {
+      "bbox": [
+        2839,
+        4958,
+        3712,
+        5016
+      ],
+      "text": "†Chapman & Hall, 186 Strand",
+      "confidence": 0.5179
+    },
+    {
+      "bbox": [
+        581,
+        5012,
+        2712,
+        5084
+      ],
+      "text": "Barthes & Lowell, 14 Gt. Marlborough st Baldock Robert, 85 High Holborn",
+      "confidence": 0.9998
+    },
+    {
+      "bbox": [
+        2832,
+        5022,
+        3966,
+        5079
+      ],
+      "text": "Chidley John (who.) 123 Aldersgate st",
+      "confidence": 0.9968
+    },
+    {
+      "bbox": [
+        580,
+        5083,
+        2809,
+        5141
+      ],
+      "text": "Black & Armstrong, 8 Wellington st. nth | Baldwin & Cradock, 47 Paternoster rw",
+      "confidence": 0.9992
+    },
+    {
+      "bbox": [
+        2839,
+        5086,
+        3962,
+        5143
+      ],
+      "text": "Chipp Thomas Paul, 109 Albany street",
+      "confidence": 0.962
+    },
+    {
+      "bbox": [
+        583,
+        5148,
+        2790,
+        5206
+      ],
+      "text": "Bohn H. G. 4 & 5 York st. Covent garden | Ball Wm. & Co. 34 Paternoster row",
+      "confidence": 0.9667
+    },
+    {
+      "bbox": [
+        2828,
+        5151,
+        3954,
+        5209
+      ],
+      "text": "* Chisman John, 42 Albany st. Regt's pk",
+      "confidence": 0.668
+    },
+    {
+      "bbox": [
+        583,
+        5210,
+        3962,
+        5274
+      ],
+      "text": "Bohn James, 12 King William st. Strand Ballard William, 7 Hayes court, Soho Chorley Mrs. E. 20 Great Quebec street",
+      "confidence": 0.9826
+    },
+    {
+      "bbox": [
+        578,
+        5269,
+        2804,
+        5342
+      ],
+      "text": "Bohn John, 17 Henrietta st. Covent gdn Balmain George, 11 Wilderness row",
+      "confidence": 0.9957
+    },
+    {
+      "bbox": [
+        2817,
+        5278,
+        3935,
+        5338
+      ],
+      "text": "† Churton Edward, 26 Holles street",
+      "confidence": 0.3522
+    },
+    {
+      "bbox": [
+        572,
+        5341,
+        3905,
+        5401
+      ],
+      "text": "Bossange, Barthés & Lowell, 14 Great Bancks Thos. & Co. 49 Paternoster row Clark Wm. Henry, 6 Charing cross",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        1698,
+        5406,
+        3958,
+        5464
+      ],
+      "text": "Barker James, 19 Throgmorton street | +Clark Wm.M.17Warwickla. Newgate st",
+      "confidence": 0.9994
+    },
+    {
+      "bbox": [
+        637,
+        5407,
+        1247,
+        5461
+      ],
+      "text": "Marlborough street",
+      "confidence": 0.8338
+    },
+    {
+      "bbox": [
+        575,
+        5468,
+        3962,
+        5531
+      ],
+      "text": "Bryant John, 9 King William st. Strand BarnettH. (Hebrew), 2St. James'spl. Aldg Clarke William C. 21 Finch la. Cornhill",
+      "confidence": 0.9887
+    },
+    {
+      "bbox": [
+        572,
+        5530,
+        3966,
+        5594
+      ],
+      "text": "Cannon G.2 Gt. May's blds. St. Martin's la | + Barritt & Co. (bible), 173 Fleet street | + ¶ Cleave John, 1 Shoe lane, Fleet street",
+      "confidence": 0.9817
+    },
+    {
+      "bbox": [
+        565,
+        5594,
+        1522,
+        5656
+      ],
+      "text": "Clark W.21 Finch lane, Cornhill",
+      "confidence": 0.9566
+    },
+    {
+      "bbox": [
+        1691,
+        5598,
+        3901,
+        5655
+      ],
+      "text": "| Barrow John Henry, 11 Parliament st | Cleaver William Jones, 80 Baker st",
+      "confidence": 0.283
+    },
+    {
+      "bbox": [
+        576,
+        5660,
+        3955,
+        5720
+      ],
+      "text": "Delaporte Mich. P. 37 Burlington arcade Baseley Henry E. 9 Old Broad street | +bClements John, 21&22 Lit. Pulteney st",
+      "confidence": 0.9558
+    },
+    {
+      "bbox": [
+        578,
+        5721,
+        1578,
+        5782
+      ],
+      "text": "Dulau A. B. & Co. 37 Soho square",
+      "confidence": 0.9687
+    },
+    {
+      "bbox": [
+        1687,
+        5726,
+        3958,
+        5787
+      ],
+      "text": "Bateman Mrs. Mary A. 16 Bucklesbury Coates John Butler, 110 Chancery lane",
+      "confidence": 0.9934
+    },
+    {
+      "bbox": [
+        576,
+        5789,
+        2771,
+        5845
+      ],
+      "text": "Harnet John, 45 Museum st. Bloomsby Bateman Thomas, 14 Goodge street",
+      "confidence": 0.9762
+    },
+    {
+      "bbox": [
+        2764,
+        5789,
+        3723,
+        5846
+      ],
+      "text": "†Cobbett Miss Ann, 137 Strand",
+      "confidence": 0.5055
+    },
+    {
+      "bbox": [
+        579,
+        5850,
+        3590,
+        5912
+      ],
+      "text": "Hodson J. S. 112 Fleet st. & 15 Cross st | Baynes Wm. & Son, 54 Paternoster row | Cochran John, 108 Strand",
+      "confidence": 0.9976
+    },
+    {
+      "bbox": [
+        1701,
+        5912,
+        3955,
+        5980
+      ],
+      "text": "Baynes Hen. 40 St. John sq. Clerkenwell Cockle R. (bible soc.) 10 Earl st. Blkfrs",
+      "confidence": 0.9932
+    },
+    {
+      "bbox": [
+        567,
+        5916,
+        1620,
+        5974
+      ],
+      "text": "Jeffs William, 15 Burlington arcade",
+      "confidence": 0.9832
+    }
+  ]
+}

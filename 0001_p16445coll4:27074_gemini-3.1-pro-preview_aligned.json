@@ -1,0 +1,2698 @@
+{
+  "image": "0001_p16445coll4:27074.jpg",
+  "model": "gemini-3.1-pro-preview",
+  "canvas_uri": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673",
+  "canvas_width": 4561,
+  "canvas_height": 6283,
+  "coords_from_fallback": true,
+  "surya_median_confidence": 0.9607,
+  "needs_review": false,
+  "possible_column_merge": false,
+  "lines": [
+    {
+      "bbox": [
+        714,
+        485,
+        1577,
+        538
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=716,486,865,53",
+      "confidence": "manual",
+      "gemini_text": "BOOKBINDERS—continued."
+    },
+    {
+      "bbox": [
+        590,
+        549,
+        1671,
+        611
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=591,550,1084,62",
+      "confidence": "manual",
+      "gemini_text": "Wilson Joseph, 22 Ray st. Clerkenwell"
+    },
+    {
+      "bbox": [
+        589,
+        608,
+        1699,
+        677
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=590,609,1113,69",
+      "confidence": "manual",
+      "gemini_text": "Wilton Wm. 6 Cursitor st. Chancery lane"
+    },
+    {
+      "bbox": [
+        587,
+        672,
+        1698,
+        741
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=588,673,1114,69",
+      "confidence": "manual",
+      "gemini_text": "Wingrove D. 44 Commercial rd. Lambeth"
+    },
+    {
+      "bbox": [
+        588,
+        741,
+        1468,
+        802
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=589,742,883,61",
+      "confidence": "manual",
+      "gemini_text": "Wolter William, 52 Drury lane"
+    },
+    {
+      "bbox": [
+        585,
+        809,
+        1700,
+        866
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=586,810,1118,57",
+      "confidence": "manual",
+      "gemini_text": "Woolnough C. 6 Bateman's rw. Shoreditch"
+    },
+    {
+      "bbox": [
+        587,
+        871,
+        1701,
+        934
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=588,872,1117,63",
+      "confidence": "manual",
+      "gemini_text": "Woolnough S. 7 Up. James st. Golden sq"
+    },
+    {
+      "bbox": [
+        586,
+        933,
+        1700,
+        999
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=587,934,1117,66",
+      "confidence": "manual",
+      "gemini_text": "Worthington Thos. 3 High st. Kensington"
+    },
+    {
+      "bbox": [
+        588,
+        1000,
+        1702,
+        1061
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=589,1001,1117,62",
+      "confidence": "manual",
+      "gemini_text": "Wright John, 21 Noel street, Berwick st"
+    },
+    {
+      "bbox": [
+        683,
+        1127,
+        1609,
+        1180
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=685,1129,928,53",
+      "confidence": "manual",
+      "gemini_text": "BOOKBINDERS' CLOTH"
+    },
+    {
+      "bbox": [
+        957,
+        1198,
+        1335,
+        1244
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=959,1200,379,46",
+      "confidence": "manual",
+      "gemini_text": "MAKERS."
+    },
+    {
+      "bbox": [
+        591,
+        1257,
+        1701,
+        1314
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=592,1259,1113,57",
+      "confidence": "manual",
+      "gemini_text": "Ford & Brocklehurst, 50 Bow la. Cheapsi"
+    },
+    {
+      "bbox": [
+        621,
+        1386,
+        1668,
+        1437
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=623,1388,1049,51",
+      "confidence": "manual",
+      "gemini_text": "BOOKBINDERS' LEATHER"
+    },
+    {
+      "bbox": [
+        978,
+        1455,
+        1316,
+        1496
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=980,1457,339,41",
+      "confidence": "manual",
+      "gemini_text": "SELLER."
+    },
+    {
+      "bbox": [
+        591,
+        1513,
+        1635,
+        1569
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=592,1515,1047,56",
+      "confidence": "manual",
+      "gemini_text": "Ford Wm. 69 Wood street, Cheapside"
+    },
+    {
+      "bbox": [
+        670,
+        1647,
+        1278,
+        1688
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=672,1649,609,41",
+      "confidence": "manual",
+      "gemini_text": "BOOKBINDERS' PLOUGH"
+    },
+    {
+      "bbox": [
+        825,
+        1704,
+        1460,
+        1755
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=827,1706,637,52",
+      "confidence": "manual",
+      "gemini_text": "KNIFE MAKER."
+    },
+    {
+      "bbox": [
+        590,
+        1766,
+        1706,
+        1823
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=591,1769,1119,57",
+      "confidence": "manual",
+      "gemini_text": "Allan Wm. 27 Gt. St. Andrew st. Seven dls"
+    },
+    {
+      "bbox": [
+        700,
+        1898,
+        1598,
+        1950
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=702,1901,900,52",
+      "confidence": "manual",
+      "gemini_text": "BOOKBINDERS' PRESS"
+    },
+    {
+      "bbox": [
+        958,
+        1967,
+        1346,
+        2013
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=960,1970,389,46",
+      "confidence": "manual",
+      "gemini_text": "MAKERS."
+    },
+    {
+      "bbox": [
+        827,
+        2029,
+        1486,
+        2082
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=829,2032,661,53",
+      "confidence": "manual",
+      "gemini_text": "See also Press Makers."
+    },
+    {
+      "bbox": [
+        593,
+        2091,
+        1713,
+        2154
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=594,2094,1123,63",
+      "confidence": "manual",
+      "gemini_text": "Dafforn & Son, 22 Mitchell st. St. Luke's"
+    },
+    {
+      "bbox": [
+        591,
+        2157,
+        1686,
+        2217
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=592,2160,1098,60",
+      "confidence": "manual",
+      "gemini_text": "Hampson Wm. 52 Long lane, Smithfield"
+    },
+    {
+      "bbox": [
+        596,
+        2284,
+        1710,
+        2336
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=597,2287,1117,52",
+      "confidence": "manual",
+      "gemini_text": "BOOKBINDERS' TOOL CUT-"
+    },
+    {
+      "bbox": [
+        722,
+        2348,
+        1593,
+        2402
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=724,2351,873,54",
+      "confidence": "manual",
+      "gemini_text": "TERS & ENGRAVERS."
+    },
+    {
+      "bbox": [
+        595,
+        2413,
+        1665,
+        2469
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=596,2416,1073,57",
+      "confidence": "manual",
+      "gemini_text": "Allen Mrs. Ann, 25 New st. Cloth fair"
+    },
+    {
+      "bbox": [
+        595,
+        2473,
+        1636,
+        2534
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=596,2477,1044,61",
+      "confidence": "manual",
+      "gemini_text": "Allen Charles, 81 Gt. Portland street"
+    },
+    {
+      "bbox": [
+        594,
+        2535,
+        1687,
+        2596
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=595,2539,1096,61",
+      "confidence": "manual",
+      "gemini_text": "Beard Fred. 21 Sekford st. Clerkenwell"
+    },
+    {
+      "bbox": [
+        597,
+        2601,
+        1710,
+        2660
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=598,2605,1116,59",
+      "confidence": "manual",
+      "gemini_text": "Cox Ebenezer, 31 Brooke street, Holborn"
+    },
+    {
+      "bbox": [
+        596,
+        2663,
+        1712,
+        2723
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=597,2667,1119,60",
+      "confidence": "manual",
+      "gemini_text": "Hall Geo. 28 Webbs county ter. N. Kent rd"
+    },
+    {
+      "bbox": [
+        596,
+        2729,
+        1700,
+        2786
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=597,2733,1107,57",
+      "confidence": "manual",
+      "gemini_text": "Knight James (steel), 37 Chandos street"
+    },
+    {
+      "bbox": [
+        596,
+        2790,
+        1680,
+        2851
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=597,2794,1087,61",
+      "confidence": "manual",
+      "gemini_text": "Knight Saml. 6 Prujean sq. Old Bailey"
+    },
+    {
+      "bbox": [
+        597,
+        2853,
+        1663,
+        2909
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=598,2857,1069,56",
+      "confidence": "manual",
+      "gemini_text": "Leeuw & Kronheim, 90 Hatton garden"
+    },
+    {
+      "bbox": [
+        596,
+        2916,
+        1620,
+        2973
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=597,2920,1027,57",
+      "confidence": "manual",
+      "gemini_text": "Morris Joseph & Co. 35 Ludgate hill"
+    },
+    {
+      "bbox": [
+        594,
+        2980,
+        1713,
+        3037
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=595,2984,1122,57",
+      "confidence": "manual",
+      "gemini_text": "Morris Chas. 44 Kirby st. Hatton garden"
+    },
+    {
+      "bbox": [
+        594,
+        3039,
+        1714,
+        3105
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=595,3043,1123,66",
+      "confidence": "manual",
+      "gemini_text": "Royle Geo. 20 Ivy lane, Newgate street"
+    },
+    {
+      "bbox": [
+        594,
+        3105,
+        1651,
+        3162
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=595,3109,1060,58",
+      "confidence": "manual",
+      "gemini_text": "Seare Samuel & Co. 44 High Holborn"
+    },
+    {
+      "bbox": [
+        593,
+        3169,
+        1663,
+        3225
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=594,3174,1073,56",
+      "confidence": "manual",
+      "gemini_text": "Staples Thomas, 30 Castle st. Holborn"
+    },
+    {
+      "bbox": [
+        589,
+        3232,
+        1572,
+        3288
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=590,3237,986,56",
+      "confidence": "manual",
+      "gemini_text": "Tinbury Frederick, 104 Fetter lane"
+    },
+    {
+      "bbox": [
+        592,
+        3295,
+        1666,
+        3352
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=593,3300,1077,57",
+      "confidence": "manual",
+      "gemini_text": "Wood & Sharwoods, 120 Aldersgate st"
+    },
+    {
+      "bbox": [
+        756,
+        3423,
+        1539,
+        3474
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=758,3428,785,51",
+      "confidence": "manual",
+      "gemini_text": "BOOKING OFFICES."
+    },
+    {
+      "bbox": [
+        746,
+        3485,
+        1563,
+        3546
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=748,3490,819,61",
+      "confidence": "manual",
+      "gemini_text": "See Conveyance Directory."
+    },
+    {
+      "bbox": [
+        846,
+        3619,
+        1453,
+        3666
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=848,3624,609,47",
+      "confidence": "manual",
+      "gemini_text": "BOOKSELLERS."
+    },
+    {
+      "bbox": [
+        702,
+        3749,
+        1593,
+        3799
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=704,3754,893,50",
+      "confidence": "manual",
+      "gemini_text": "Bookseller—Agricultural."
+    },
+    {
+      "bbox": [
+        588,
+        3805,
+        1445,
+        3865
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=589,3810,859,61",
+      "confidence": "manual",
+      "gemini_text": "Wright Henry, 51 Haymarket"
+    },
+    {
+      "bbox": [
+        622,
+        3938,
+        1584,
+        3989
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=624,3944,964,51",
+      "confidence": "manual",
+      "gemini_text": "Booksellers—Architectural &"
+    },
+    {
+      "bbox": [
+        712,
+        4002,
+        1584,
+        4054
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=714,4008,874,52",
+      "confidence": "manual",
+      "gemini_text": "Engineering & Scientific."
+    },
+    {
+      "bbox": [
+        589,
+        4065,
+        1698,
+        4119
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=590,4071,1112,54",
+      "confidence": "manual",
+      "gemini_text": "Maynard Sl. 8 Earl's court, Leicester sq"
+    },
+    {
+      "bbox": [
+        585,
+        4127,
+        1663,
+        4184
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=586,4133,1081,57",
+      "confidence": "manual",
+      "gemini_text": "Reid William Henry, 15 Charing cross"
+    },
+    {
+      "bbox": [
+        580,
+        4190,
+        1431,
+        4247
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=581,4196,853,57",
+      "confidence": "manual",
+      "gemini_text": "Weale John, 59 High Holborn"
+    },
+    {
+      "bbox": [
+        582,
+        4248,
+        1703,
+        4317
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=583,4254,1124,69",
+      "confidence": "manual",
+      "gemini_text": "Williams John, 106 Gt. Russell st. Blomsb"
+    },
+    {
+      "bbox": [
+        751,
+        4385,
+        1544,
+        4439
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=753,4391,795,54",
+      "confidence": "manual",
+      "gemini_text": "Bookseller—Botanical,"
+    },
+    {
+      "bbox": [
+        582,
+        4444,
+        1675,
+        4508
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=583,4450,1096,64",
+      "confidence": "manual",
+      "gemini_text": "Pamplin William, 9 Queen street, Soho"
+    },
+    {
+      "bbox": [
+        760,
+        4579,
+        1529,
+        4630
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=762,4586,771,51",
+      "confidence": "manual",
+      "gemini_text": "Booksellers—Foreign."
+    },
+    {
+      "bbox": [
+        681,
+        4636,
+        1610,
+        4695
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=683,4643,931,59",
+      "confidence": "manual",
+      "gemini_text": "See also Booksellers in General."
+    },
+    {
+      "bbox": [
+        583,
+        4702,
+        1705,
+        4761
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=584,4709,1125,59",
+      "confidence": "manual",
+      "gemini_text": "Alexandre A. 37 Gt. Russell st. Blmsbury"
+    },
+    {
+      "bbox": [
+        585,
+        4768,
+        1704,
+        4823
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=586,4775,1122,55",
+      "confidence": "manual",
+      "gemini_text": "Asher Adolphus, 158 Fleet st. & at Berlin"
+    },
+    {
+      "bbox": [
+        582,
+        4827,
+        1701,
+        4887
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=583,4834,1122,60",
+      "confidence": "manual",
+      "gemini_text": "Bagster & Marshall (american com."
+    },
+    {
+      "bbox": [
+        645,
+        4893,
+        1433,
+        4950
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=647,4900,789,57",
+      "confidence": "manual",
+      "gemini_text": "agents), 13 Paternoster row"
+    },
+    {
+      "bbox": [
+        580,
+        4955,
+        1632,
+        5015
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=581,4962,1055,60",
+      "confidence": "manual",
+      "gemini_text": "Bailliere Hippolite, 219 Regent street"
+    },
+    {
+      "bbox": [
+        580,
+        5019,
+        1703,
+        5076
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=581,5026,1126,57",
+      "confidence": "manual",
+      "gemini_text": "Barthes & Lowell, 14 Gt. Marlborough st"
+    },
+    {
+      "bbox": [
+        579,
+        5083,
+        1701,
+        5141
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=580,5090,1125,58",
+      "confidence": "manual",
+      "gemini_text": "Black & Armstrong, 8 Wellington st. nth"
+    },
+    {
+      "bbox": [
+        579,
+        5147,
+        1702,
+        5203
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=580,5154,1126,56",
+      "confidence": "manual",
+      "gemini_text": "Bohn H. G. 4 & 5 York st. Covent garden"
+    },
+    {
+      "bbox": [
+        582,
+        5209,
+        1703,
+        5271
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=583,5216,1124,63",
+      "confidence": "manual",
+      "gemini_text": "Bohn James, 12 King William st. Strand"
+    },
+    {
+      "bbox": [
+        579,
+        5274,
+        1671,
+        5337
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=580,5282,1095,63",
+      "confidence": "manual",
+      "gemini_text": "Bohn John, 17 Henrietta st. Covent gdn"
+    },
+    {
+      "bbox": [
+        577,
+        5340,
+        1703,
+        5401
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=578,5348,1129,61",
+      "confidence": "manual",
+      "gemini_text": "Bossange, Barthés & Lowell, 14 Great"
+    },
+    {
+      "bbox": [
+        640,
+        5400,
+        1194,
+        5469
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=642,5408,555,69",
+      "confidence": "manual",
+      "gemini_text": "Marlborough street"
+    },
+    {
+      "bbox": [
+        576,
+        5470,
+        1701,
+        5526
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=577,5478,1128,56",
+      "confidence": "manual",
+      "gemini_text": "Bryant John, 9 King William st. Strand"
+    },
+    {
+      "bbox": [
+        576,
+        5532,
+        1703,
+        5590
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=577,5540,1130,58",
+      "confidence": "manual",
+      "gemini_text": "Cannon G. 2 Gt. May's blds. St. Martin's la"
+    },
+    {
+      "bbox": [
+        576,
+        5596,
+        1489,
+        5655
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=577,5604,916,59",
+      "confidence": "manual",
+      "gemini_text": "Clark W. 21 Finch lane, Cornhill"
+    },
+    {
+      "bbox": [
+        575,
+        5661,
+        1694,
+        5721
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=576,5669,1122,60",
+      "confidence": "manual",
+      "gemini_text": "Delaporte Mich. P. 37 Burlington arcade"
+    },
+    {
+      "bbox": [
+        576,
+        5726,
+        1552,
+        5784
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=577,5734,979,58",
+      "confidence": "manual",
+      "gemini_text": "Dulau A. B. & Co. 37 Soho square"
+    },
+    {
+      "bbox": [
+        576,
+        5788,
+        1668,
+        5854
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=577,5796,1095,66",
+      "confidence": "manual",
+      "gemini_text": "Harnet John, 45 Museum st. Bloomsby"
+    },
+    {
+      "bbox": [
+        576,
+        5854,
+        1674,
+        5907
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=577,5862,1101,53",
+      "confidence": "manual",
+      "gemini_text": "Hodson J. S. 112 Fleet st. & 15 Cross st"
+    },
+    {
+      "bbox": [
+        575,
+        5916,
+        1599,
+        5971
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=576,5924,1027,56",
+      "confidence": "manual",
+      "gemini_text": "Jeffs William, 15 Burlington arcade"
+    },
+    {
+      "bbox": [
+        1731,
+        484,
+        2837,
+        544
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,485,1109,60",
+      "confidence": "manual",
+      "gemini_text": "Madden & Co. (oriental), 8 Leadenhall st"
+    },
+    {
+      "bbox": [
+        1731,
+        550,
+        2837,
+        607
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,551,1109,57",
+      "confidence": "manual",
+      "gemini_text": "Miller John (american), 26 Henrietta st"
+    },
+    {
+      "bbox": [
+        1731,
+        614,
+        2837,
+        673
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,615,1109,59",
+      "confidence": "manual",
+      "gemini_text": "Molini C. F. (italian), 14 Paternoster rw"
+    },
+    {
+      "bbox": [
+        1731,
+        679,
+        2507,
+        736
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,680,778,57",
+      "confidence": "manual",
+      "gemini_text": "Nutt David, 158 Fleet street"
+    },
+    {
+      "bbox": [
+        1731,
+        742,
+        2621,
+        802
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,743,892,60",
+      "confidence": "manual",
+      "gemini_text": "Rolandi Peter, 20 Berners street"
+    },
+    {
+      "bbox": [
+        1731,
+        809,
+        2637,
+        867
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,810,908,58",
+      "confidence": "manual",
+      "gemini_text": "Schloss Albert, 12 Berners street"
+    },
+    {
+      "bbox": [
+        1731,
+        874,
+        2776,
+        934
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,875,1048,60",
+      "confidence": "manual",
+      "gemini_text": "Senior Charles & Henry, 49 Pall mall"
+    },
+    {
+      "bbox": [
+        1731,
+        937,
+        2838,
+        1001
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,938,1110,64",
+      "confidence": "manual",
+      "gemini_text": "Wiley & Putnam (amer.), 35 Paternostr. r"
+    },
+    {
+      "bbox": [
+        1952,
+        1074,
+        2595,
+        1121
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1957,1076,644,47",
+      "confidence": "manual",
+      "gemini_text": "Booksellers—Law."
+    },
+    {
+      "bbox": [
+        1986,
+        1133,
+        2568,
+        1189
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1991,1135,583,56",
+      "confidence": "manual",
+      "gemini_text": "See Law Directory."
+    },
+    {
+      "bbox": [
+        1891,
+        1263,
+        2665,
+        1310
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1896,1265,775,47",
+      "confidence": "manual",
+      "gemini_text": "Booksellers—Medical."
+    },
+    {
+      "bbox": [
+        1772,
+        1333,
+        2729,
+        1382
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1776,1335,960,49",
+      "confidence": "manual",
+      "gemini_text": "Marked thus † are Medical Librarians."
+    },
+    {
+      "bbox": [
+        1774,
+        1387,
+        2513,
+        1435
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1778,1389,741,48",
+      "confidence": "manual",
+      "gemini_text": "Marked thus * are Publishers."
+    },
+    {
+      "bbox": [
+        1731,
+        1455,
+        2743,
+        1517
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,1457,1015,62",
+      "confidence": "manual",
+      "gemini_text": "Burgess Thomas, 28 Coventry street"
+    },
+    {
+      "bbox": [
+        1731,
+        1517,
+        2839,
+        1583
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,1519,1111,66",
+      "confidence": "manual",
+      "gemini_text": "Butler Joseph, 4 St. Thomas' st. Borough"
+    },
+    {
+      "bbox": [
+        1731,
+        1580,
+        2829,
+        1648
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,1582,1101,68",
+      "confidence": "manual",
+      "gemini_text": "†Churchill John, 16 Princes st. Leices. sq"
+    },
+    {
+      "bbox": [
+        1731,
+        1641,
+        2834,
+        1712
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,1643,1106,71",
+      "confidence": "manual",
+      "gemini_text": "Cox Mrs. Elizh. 13½ St. Thomas st. Boro'"
+    },
+    {
+      "bbox": [
+        1731,
+        1712,
+        2595,
+        1769
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,1714,866,58",
+      "confidence": "manual",
+      "gemini_text": "Highly Samuel, 32 Fleet street"
+    },
+    {
+      "bbox": [
+        1731,
+        1775,
+        2775,
+        1831
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,1778,1047,56",
+      "confidence": "manual",
+      "gemini_text": "Hill T. 55 Gt. Windmill st. Haymarket"
+    },
+    {
+      "bbox": [
+        1731,
+        1840,
+        2703,
+        1897
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,1843,975,57",
+      "confidence": "manual",
+      "gemini_text": "Jones Thomas, 91 Aldersgate street"
+    },
+    {
+      "bbox": [
+        1731,
+        1904,
+        2835,
+        1960
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,1907,1107,56",
+      "confidence": "manual",
+      "gemini_text": "†Jackson Mrs. Harriet, 32 King st. Boro'"
+    },
+    {
+      "bbox": [
+        1731,
+        1969,
+        2805,
+        2025
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,1972,1077,56",
+      "confidence": "manual",
+      "gemini_text": "Moore Miss Jane, 9 Gower street north"
+    },
+    {
+      "bbox": [
+        1731,
+        2031,
+        2549,
+        2090
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,2034,820,59",
+      "confidence": "manual",
+      "gemini_text": "*Renshaw Henry, 356 Strand"
+    },
+    {
+      "bbox": [
+        1731,
+        2096,
+        2791,
+        2154
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,2099,1063,58",
+      "confidence": "manual",
+      "gemini_text": "Turner Caleb, Church street Hackney"
+    },
+    {
+      "bbox": [
+        1731,
+        2160,
+        2809,
+        2221
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,2163,1081,61",
+      "confidence": "manual",
+      "gemini_text": "Whiting Wm. 15 King street, Borough"
+    },
+    {
+      "bbox": [
+        1838,
+        2289,
+        2731,
+        2346
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1842,2292,896,57",
+      "confidence": "manual",
+      "gemini_text": "Booksellers—Theological."
+    },
+    {
+      "bbox": [
+        1731,
+        2353,
+        2839,
+        2409
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,2356,1111,56",
+      "confidence": "manual",
+      "gemini_text": "Darling Jas. 21 & 22 Lit. Queen st. Holborn"
+    },
+    {
+      "bbox": [
+        1731,
+        2416,
+        2838,
+        2473
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,2419,1110,58",
+      "confidence": "manual",
+      "gemini_text": "Leslie John, 52 Gt. Queen st. Lin. inn fi"
+    },
+    {
+      "bbox": [
+        1731,
+        2480,
+        2839,
+        2538
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,2484,1111,58",
+      "confidence": "manual",
+      "gemini_text": "Stewart Chas. J. 11 King Wm. st. Strand"
+    },
+    {
+      "bbox": [
+        1731,
+        2544,
+        2540,
+        2600
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,2548,811,56",
+      "confidence": "manual",
+      "gemini_text": "Straker William, 443 Strand"
+    },
+    {
+      "bbox": [
+        1872,
+        2673,
+        2702,
+        2723
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1877,2677,832,50",
+      "confidence": "manual",
+      "gemini_text": "Booksellers in General."
+    },
+    {
+      "bbox": [
+        1731,
+        2730,
+        2839,
+        2793
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,2734,1111,63",
+      "confidence": "manual",
+      "gemini_text": "See also Bookbinders; Printsellers;"
+    },
+    {
+      "bbox": [
+        1776,
+        2796,
+        2839,
+        2854
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1780,2800,1066,58",
+      "confidence": "manual",
+      "gemini_text": "Pocketbook makers; Printers; Print-"
+    },
+    {
+      "bbox": [
+        1780,
+        2859,
+        2465,
+        2917
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1784,2863,687,58",
+      "confidence": "manual",
+      "gemini_text": "sellers; and Stationers."
+    },
+    {
+      "bbox": [
+        1780,
+        2944,
+        2510,
+        2984
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1784,2948,732,40",
+      "confidence": "manual",
+      "gemini_text": "Marked thus † are Publishers."
+    },
+    {
+      "bbox": [
+        1781,
+        2998,
+        2464,
+        3038
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1785,3002,685,40",
+      "confidence": "manual",
+      "gemini_text": "Marked thus * are Printers."
+    },
+    {
+      "bbox": [
+        1778,
+        3045,
+        2517,
+        3102
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1782,3049,741,57",
+      "confidence": "manual",
+      "gemini_text": "Marked thus § are Librarians."
+    },
+    {
+      "bbox": [
+        1778,
+        3102,
+        2709,
+        3151
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1782,3106,934,50",
+      "confidence": "manual",
+      "gemini_text": "Marked thus ‖ are General Stationers."
+    },
+    {
+      "bbox": [
+        1778,
+        3157,
+        2668,
+        3205
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1782,3162,892,48",
+      "confidence": "manual",
+      "gemini_text": "Marked thus ‡ are Fancy Stationers."
+    },
+    {
+      "bbox": [
+        1777,
+        3210,
+        2544,
+        3259
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1781,3215,769,49",
+      "confidence": "manual",
+      "gemini_text": "Marked thus ¶ are Printsellers."
+    },
+    {
+      "bbox": [
+        1778,
+        3269,
+        2563,
+        3309
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1782,3274,787,40",
+      "confidence": "manual",
+      "gemini_text": "Marked thus a are Newsvenders."
+    },
+    {
+      "bbox": [
+        1777,
+        3319,
+        2784,
+        3369
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1781,3324,1010,50",
+      "confidence": "manual",
+      "gemini_text": "Marked thus b are Account-book makers."
+    },
+    {
+      "bbox": [
+        1777,
+        3379,
+        2549,
+        3420
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1781,3384,774,41",
+      "confidence": "manual",
+      "gemini_text": "Marked thus c are Bookbinders."
+    },
+    {
+      "bbox": [
+        1777,
+        3427,
+        2744,
+        3481
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1781,3432,970,54",
+      "confidence": "manual",
+      "gemini_text": "Marked thus d are Foreign Booksellers."
+    },
+    {
+      "bbox": [
+        1777,
+        3483,
+        2744,
+        3530
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1781,3488,970,47",
+      "confidence": "manual",
+      "gemini_text": "Marked thus e are Juvenile Booksellers."
+    },
+    {
+      "bbox": [
+        1731,
+        3555,
+        2690,
+        3606
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,3560,962,51",
+      "confidence": "manual",
+      "gemini_text": "Aaron Mrs. R. 10 Goodman's stile"
+    },
+    {
+      "bbox": [
+        1731,
+        3619,
+        2639,
+        3673
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,3624,910,54",
+      "confidence": "manual",
+      "gemini_text": "‖†‡¶Ackermann & Co. 96 Strand"
+    },
+    {
+      "bbox": [
+        1731,
+        3681,
+        2839,
+        3738
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,3686,1111,57",
+      "confidence": "manual",
+      "gemini_text": "¶Adamson Ch. 25 Bedford st. Cov. gardn"
+    },
+    {
+      "bbox": [
+        1731,
+        3742,
+        2661,
+        3803
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,3747,932,61",
+      "confidence": "manual",
+      "gemini_text": "†Aitken William, 172 Fleet street"
+    },
+    {
+      "bbox": [
+        1731,
+        3805,
+        2839,
+        3867
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,3810,1111,63",
+      "confidence": "manual",
+      "gemini_text": "Akerman S. C. 4 Greville st. Hatton gar"
+    },
+    {
+      "bbox": [
+        1731,
+        3867,
+        2839,
+        3931
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,3873,1111,64",
+      "confidence": "manual",
+      "gemini_text": "†Allen James, 19 Warwick la. Ptnstr. row"
+    },
+    {
+      "bbox": [
+        1731,
+        3931,
+        2839,
+        3994
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,3937,1111,63",
+      "confidence": "manual",
+      "gemini_text": "§‖‡abAllason William, 31 New Bond street"
+    },
+    {
+      "bbox": [
+        1731,
+        3989,
+        2839,
+        4059
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,3995,1111,70",
+      "confidence": "manual",
+      "gemini_text": "†‖Allen Wm. H. & Co. 7 Leadenhall street"
+    },
+    {
+      "bbox": [
+        1731,
+        4057,
+        2839,
+        4117
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,4063,1111,60",
+      "confidence": "manual",
+      "gemini_text": "Allen Mrs. Rebecca, 65 Sun st. Bishopsgt"
+    },
+    {
+      "bbox": [
+        1731,
+        4121,
+        2664,
+        4183
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,4127,935,62",
+      "confidence": "manual",
+      "gemini_text": "†Allman Thomas, 42 Holborn hill"
+    },
+    {
+      "bbox": [
+        1731,
+        4187,
+        2839,
+        4247
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,4193,1111,60",
+      "confidence": "manual",
+      "gemini_text": "‖Allum Manoah, 29 Brick la. Spitalfields"
+    },
+    {
+      "bbox": [
+        1731,
+        4314,
+        2839,
+        4375
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,4320,1111,61",
+      "confidence": "manual",
+      "gemini_text": "‖Anyon S. F. & S. 19 New st. Dorset sq"
+    },
+    {
+      "bbox": [
+        1731,
+        4381,
+        2837,
+        4437
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,4387,1109,56",
+      "confidence": "manual",
+      "gemini_text": "Appleton Daniel & Co. 16 Little Britain"
+    },
+    {
+      "bbox": [
+        1731,
+        4445,
+        2776,
+        4501
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,4451,1048,56",
+      "confidence": "manual",
+      "gemini_text": "Archer William, 88 Berwick st. Soho"
+    },
+    {
+      "bbox": [
+        1731,
+        4507,
+        2800,
+        4566
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,4513,1072,60",
+      "confidence": "manual",
+      "gemini_text": "§a‖Arnold Henry, 45 Marchmont street"
+    },
+    {
+      "bbox": [
+        1731,
+        4570,
+        2837,
+        4633
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,4577,1109,63",
+      "confidence": "manual",
+      "gemini_text": "†*Ascham John James, 71 Chancery lane"
+    },
+    {
+      "bbox": [
+        1731,
+        4638,
+        2655,
+        4694
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,4645,926,56",
+      "confidence": "manual",
+      "gemini_text": "‖†¶Ashley James, 37 Haymarket"
+    },
+    {
+      "bbox": [
+        1731,
+        5405,
+        2781,
+        5468
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,5413,1053,63",
+      "confidence": "manual",
+      "gemini_text": "Barker James, 19 Throgmorton street"
+    },
+    {
+      "bbox": [
+        1731,
+        5470,
+        2838,
+        5530
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,5478,1110,60",
+      "confidence": "manual",
+      "gemini_text": "Barnett H. (Hebrew), 2 St. James's pl. Aldg"
+    },
+    {
+      "bbox": [
+        1731,
+        5532,
+        2783,
+        5593
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,5540,1055,61",
+      "confidence": "manual",
+      "gemini_text": "†Barritt & Co. (bible), 173 Fleet street"
+    },
+    {
+      "bbox": [
+        1731,
+        5597,
+        2795,
+        5657
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,5605,1067,60",
+      "confidence": "manual",
+      "gemini_text": "†Barrow John Henry, 11 Parliament st"
+    },
+    {
+      "bbox": [
+        1731,
+        5659,
+        2759,
+        5722
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,5667,1031,63",
+      "confidence": "manual",
+      "gemini_text": "Baseley Henry E. 9 Old Broad street"
+    },
+    {
+      "bbox": [
+        1731,
+        5791,
+        2705,
+        5847
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,5799,977,56",
+      "confidence": "manual",
+      "gemini_text": "Bateman Thomas, 14 Goodge street"
+    },
+    {
+      "bbox": [
+        1731,
+        5915,
+        2839,
+        5977
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,5923,1111,63",
+      "confidence": "manual",
+      "gemini_text": "Baynes Hen. 40 St. John sq. Clerkenwell"
+    },
+    {
+      "bbox": [
+        1736,
+        4246,
+        2791,
+        4305
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1740,4252,1058,59",
+      "confidence": "manual",
+      "gemini_text": "‖Andrews John, 167 New Bond street"
+    },
+    {
+      "bbox": [
+        1731,
+        4684,
+        2719,
+        4757
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,4691,991,73",
+      "confidence": "manual",
+      "gemini_text": "‖§Atkinson Thomas, 46 Judd street"
+    },
+    {
+      "bbox": [
+        1731,
+        4763,
+        2818,
+        4824
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,4770,1090,61",
+      "confidence": "manual",
+      "gemini_text": "‖Attwood Mrs. M. 39 Gt. Castle st. Rgt. st"
+    },
+    {
+      "bbox": [
+        1731,
+        4831,
+        2772,
+        4886
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,4838,1044,55",
+      "confidence": "manual",
+      "gemini_text": "†Bagster Samuel, 15 Paternoster row"
+    },
+    {
+      "bbox": [
+        1731,
+        4893,
+        2785,
+        4955
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,4900,1057,62",
+      "confidence": "manual",
+      "gemini_text": "†*‖bBaily Alfred H. & Co. 83 Cornhill"
+    },
+    {
+      "bbox": [
+        1731,
+        4958,
+        2501,
+        5016
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,4965,772,58",
+      "confidence": "manual",
+      "gemini_text": "dBain James, 1 Haymarket"
+    },
+    {
+      "bbox": [
+        1731,
+        5021,
+        2681,
+        5081
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,5028,952,60",
+      "confidence": "manual",
+      "gemini_text": "Baldock Robert, 85 High Holborn"
+    },
+    {
+      "bbox": [
+        1731,
+        5085,
+        2802,
+        5146
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,5092,1074,61",
+      "confidence": "manual",
+      "gemini_text": "†Baldwin & Cradock, 47 Paternoster rw"
+    },
+    {
+      "bbox": [
+        1731,
+        5150,
+        2749,
+        5209
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,5157,1021,59",
+      "confidence": "manual",
+      "gemini_text": "†Ball Wm. & Co. 34 Paternoster row"
+    },
+    {
+      "bbox": [
+        1731,
+        5213,
+        2800,
+        5276
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,5220,1072,64",
+      "confidence": "manual",
+      "gemini_text": "§Ballard William, 7 Hayes court, Soho"
+    },
+    {
+      "bbox": [
+        1731,
+        5277,
+        2755,
+        5343
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1735,5285,1027,66",
+      "confidence": "manual",
+      "gemini_text": "Balmain George, 11 Wilderness row"
+    },
+    {
+      "bbox": [
+        1710,
+        5348,
+        2828,
+        5394
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1714,5356,1121,46",
+      "confidence": "manual",
+      "gemini_text": "†Bancks Thos. & Co. 49 Paternoster row"
+    },
+    {
+      "bbox": [
+        2834,
+        493,
+        3887,
+        548
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2841,494,1055,55",
+      "confidence": "manual",
+      "gemini_text": "†Baynes Richard, 28 Paternoster row"
+    },
+    {
+      "bbox": [
+        2841,
+        555,
+        3671,
+        610
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2848,556,832,55",
+      "confidence": "manual",
+      "gemini_text": "†Bell George, 186 Fleet street"
+    },
+    {
+      "bbox": [
+        2844,
+        616,
+        3856,
+        677
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2851,617,1014,61",
+      "confidence": "manual",
+      "gemini_text": "aBell James, 11 Finch lane, Cornhil"
+    },
+    {
+      "bbox": [
+        2844,
+        680,
+        3952,
+        744
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2851,681,1111,64",
+      "confidence": "manual",
+      "gemini_text": "Bellchamber J. 33 A, King st. Westmnstr"
+    },
+    {
+      "bbox": [
+        2848,
+        748,
+        3952,
+        804
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2855,749,1107,56",
+      "confidence": "manual",
+      "gemini_text": "§Bennet Edm. 22 Gt. Knightrider street"
+    },
+    {
+      "bbox": [
+        2848,
+        814,
+        3910,
+        869
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2855,815,1064,55",
+      "confidence": "manual",
+      "gemini_text": "Bennett Thomas, 4 Copthall buildings"
+    },
+    {
+      "bbox": [
+        2848,
+        873,
+        3950,
+        932
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2855,874,1105,59",
+      "confidence": "manual",
+      "gemini_text": "†Bennett Wm. 4 Three tuns pas. Nwg. st"
+    },
+    {
+      "bbox": [
+        2847,
+        1067,
+        3950,
+        1123
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2854,1069,1106,56",
+      "confidence": "manual",
+      "gemini_text": "Betts John, 7 Compton st. Brunswick sq"
+    },
+    {
+      "bbox": [
+        2850,
+        1131,
+        3951,
+        1188
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2857,1133,1104,57",
+      "confidence": "manual",
+      "gemini_text": "Bickers H. 9 Leicester st. & 1 Leicester sq"
+    },
+    {
+      "bbox": [
+        2851,
+        1193,
+        3910,
+        1254
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2858,1195,1061,61",
+      "confidence": "manual",
+      "gemini_text": "Bigg James, 34 Holywell st. Millbank"
+    },
+    {
+      "bbox": [
+        2851,
+        1256,
+        3960,
+        1317
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2858,1258,1112,61",
+      "confidence": "manual",
+      "gemini_text": "‖Bigg James & Son, 53 Parliament street"
+    },
+    {
+      "bbox": [
+        2850,
+        1320,
+        3955,
+        1381
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2857,1322,1108,61",
+      "confidence": "manual",
+      "gemini_text": "§‖Billinghurst John, 24 Brixton place &"
+    },
+    {
+      "bbox": [
+        2911,
+        1386,
+        3819,
+        1443
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2918,1388,910,57",
+      "confidence": "manual",
+      "gemini_text": "3 Chapterhouse court, St. Paul's"
+    },
+    {
+      "bbox": [
+        2853,
+        1448,
+        3962,
+        1511
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2860,1450,1112,63",
+      "confidence": "manual",
+      "gemini_text": "*‖abBingham C. E. 62 Mount st. Berkl. sq"
+    },
+    {
+      "bbox": [
+        2854,
+        1516,
+        3881,
+        1571
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2861,1518,1029,55",
+      "confidence": "manual",
+      "gemini_text": "‖bBirkett Richard, 27 Norton folgate"
+    },
+    {
+      "bbox": [
+        2853,
+        1642,
+        3956,
+        1699
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2860,1644,1106,57",
+      "confidence": "manual",
+      "gemini_text": "Blake Benjamin, 13 Bell yard, Temple bar"
+    },
+    {
+      "bbox": [
+        2853,
+        1707,
+        3958,
+        1762
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2860,1709,1108,56",
+      "confidence": "manual",
+      "gemini_text": "Bohn Hen. G. 4 & 5 York st. Covent garden"
+    },
+    {
+      "bbox": [
+        2913,
+        2216,
+        3878,
+        2276
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2920,2219,967,60",
+      "confidence": "manual",
+      "gemini_text": "11 Dartmouth street, Westminster"
+    },
+    {
+      "bbox": [
+        2860,
+        3557,
+        3960,
+        3611
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2867,3562,1103,54",
+      "confidence": "manual",
+      "gemini_text": "Bunting Wm. 9 Russell court, Drury la"
+    },
+    {
+      "bbox": [
+        2859,
+        3617,
+        3849,
+        3679
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2866,3622,992,62",
+      "confidence": "manual",
+      "gemini_text": "‖Burn James, 11 Kennington green"
+    },
+    {
+      "bbox": [
+        2858,
+        3746,
+        3964,
+        3803
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2865,3751,1109,57",
+      "confidence": "manual",
+      "gemini_text": "Burt Augustus Austin, 47 Gt. Queen st"
+    },
+    {
+      "bbox": [
+        2833,
+        3809,
+        3940,
+        3865
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2840,3814,1110,57",
+      "confidence": "manual",
+      "gemini_text": "‖Burton John, 19 St. Martin's le grand"
+    },
+    {
+      "bbox": [
+        2854,
+        3870,
+        3873,
+        3930
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2861,3876,1021,60",
+      "confidence": "manual",
+      "gemini_text": "†‖abByfield Robert, 21 Charing cross"
+    },
+    {
+      "bbox": [
+        2853,
+        3935,
+        3915,
+        3989
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2860,3941,1064,54",
+      "confidence": "manual",
+      "gemini_text": "Byworth Geo. 16 Duke st. Smithfield"
+    },
+    {
+      "bbox": [
+        2854,
+        3999,
+        3633,
+        4052
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2861,4005,781,53",
+      "confidence": "manual",
+      "gemini_text": "†Cadell Thomas, 141 Strand"
+    },
+    {
+      "bbox": [
+        2854,
+        4059,
+        3960,
+        4115
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2861,4065,1109,56",
+      "confidence": "manual",
+      "gemini_text": "‖Caines Geo. C. & Co. 2 Halkin st. west"
+    },
+    {
+      "bbox": [
+        2856,
+        4122,
+        3961,
+        4181
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2863,4128,1108,59",
+      "confidence": "manual",
+      "gemini_text": "†‖aCalder Francis William, 199 Oxford st"
+    },
+    {
+      "bbox": [
+        2857,
+        4186,
+        3958,
+        4245
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2864,4192,1104,59",
+      "confidence": "manual",
+      "gemini_text": "‖Calf Mrs. S. 116 Edgware rd. Marylebo"
+    },
+    {
+      "bbox": [
+        2856,
+        4251,
+        3695,
+        4310
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2863,4257,841,59",
+      "confidence": "manual",
+      "gemini_text": "Calkin & Budd, 118 Pall mall"
+    },
+    {
+      "bbox": [
+        2847,
+        4316,
+        3918,
+        4374
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2854,4322,1073,58",
+      "confidence": "manual",
+      "gemini_text": "‖Capener John, 203 Sloane st. Chelsea"
+    },
+    {
+      "bbox": [
+        2852,
+        4382,
+        3957,
+        4437
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2859,4388,1108,55",
+      "confidence": "manual",
+      "gemini_text": "‖†Capes Joseph, & Co. 6 Paternoster row"
+    },
+    {
+      "bbox": [
+        2852,
+        4443,
+        3929,
+        4505
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2859,4449,1079,62",
+      "confidence": "manual",
+      "gemini_text": "†Carpenter James, 14 Old Bond street"
+    },
+    {
+      "bbox": [
+        2847,
+        4511,
+        3958,
+        4567
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2854,4517,1114,57",
+      "confidence": "manual",
+      "gemini_text": "e†Carpenter N. 60 Spencer st. Goswell st"
+    },
+    {
+      "bbox": [
+        2850,
+        4574,
+        3955,
+        4631
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2857,4581,1108,57",
+      "confidence": "manual",
+      "gemini_text": "§aCarter D. 1 Woburn bldgns Tavistock sq"
+    },
+    {
+      "bbox": [
+        2850,
+        4640,
+        3956,
+        4695
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2857,4647,1109,55",
+      "confidence": "manual",
+      "gemini_text": "e†Carvalho David Nunes, 147 Fleet street"
+    },
+    {
+      "bbox": [
+        2850,
+        4702,
+        3953,
+        4762
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2857,4709,1106,60",
+      "confidence": "manual",
+      "gemini_text": "¶Caulfield Wm. 28 Red Lion st. Holborn"
+    },
+    {
+      "bbox": [
+        2851,
+        4768,
+        3956,
+        4823
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2858,4775,1108,55",
+      "confidence": "manual",
+      "gemini_text": "§Cawthorn Mrs. Maria H. 24 Cockspur st"
+    },
+    {
+      "bbox": [
+        2853,
+        4831,
+        3893,
+        4890
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2860,4838,1042,59",
+      "confidence": "manual",
+      "gemini_text": "Central Tract Depôt, 1 Warwick sq"
+    },
+    {
+      "bbox": [
+        2849,
+        4894,
+        3898,
+        4955
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2856,4901,1051,61",
+      "confidence": "manual",
+      "gemini_text": "§Chambers Walter Henry, 26 Lisle st"
+    },
+    {
+      "bbox": [
+        2850,
+        4962,
+        3700,
+        5017
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2857,4969,852,55",
+      "confidence": "manual",
+      "gemini_text": "†Chapman & Hall, 186 Strand"
+    },
+    {
+      "bbox": [
+        2849,
+        5021,
+        3953,
+        5087
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2856,5028,1107,66",
+      "confidence": "manual",
+      "gemini_text": "Chidley John (who.) 123 Aldersgate st"
+    },
+    {
+      "bbox": [
+        2848,
+        5088,
+        3953,
+        5150
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2855,5095,1108,62",
+      "confidence": "manual",
+      "gemini_text": "Chipp Thomas Paul, 109 Albany street"
+    },
+    {
+      "bbox": [
+        2849,
+        5151,
+        3952,
+        5215
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2856,5158,1106,64",
+      "confidence": "manual",
+      "gemini_text": "*‖Chisman John, 42 Albany st. Regt's pk"
+    },
+    {
+      "bbox": [
+        2837,
+        5215,
+        3949,
+        5276
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2844,5222,1115,62",
+      "confidence": "manual",
+      "gemini_text": "aChorley Mrs. E. 30 Great Quebec street"
+    },
+    {
+      "bbox": [
+        2838,
+        5342,
+        3890,
+        5405
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2845,5350,1054,63",
+      "confidence": "manual",
+      "gemini_text": "‖bClark Wm. Henry, 6 Charing cross"
+    },
+    {
+      "bbox": [
+        2840,
+        5408,
+        3952,
+        5466
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2847,5416,1115,58",
+      "confidence": "manual",
+      "gemini_text": "†Clark Wm. M. 17 Warwick la. Newgate st"
+    },
+    {
+      "bbox": [
+        2836,
+        5471,
+        3949,
+        5528
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2843,5479,1116,57",
+      "confidence": "manual",
+      "gemini_text": "aClarke William C. 21 Finch la. Cornhill"
+    },
+    {
+      "bbox": [
+        2836,
+        5537,
+        3952,
+        5593
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2843,5545,1119,56",
+      "confidence": "manual",
+      "gemini_text": "†¶Cleave John, 1 Shoe lane, Fleet street"
+    },
+    {
+      "bbox": [
+        2838,
+        5599,
+        3891,
+        5655
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2845,5607,1055,56",
+      "confidence": "manual",
+      "gemini_text": "†aCleaver William Jones, 80 Baker st"
+    },
+    {
+      "bbox": [
+        2838,
+        5663,
+        3947,
+        5721
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2845,5671,1112,58",
+      "confidence": "manual",
+      "gemini_text": "†bClements John, 21 & 22 Lit. Pulteney st"
+    },
+    {
+      "bbox": [
+        2841,
+        5724,
+        3949,
+        5787
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2848,5732,1111,63",
+      "confidence": "manual",
+      "gemini_text": "‖Coates John Butler, 110 Chancery lane"
+    },
+    {
+      "bbox": [
+        2840,
+        5788,
+        3712,
+        5849
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2847,5796,874,61",
+      "confidence": "manual",
+      "gemini_text": "†Cobbett Miss Ann, 137 Strand"
+    },
+    {
+      "bbox": [
+        2835,
+        5855,
+        3573,
+        5912
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2842,5863,740,57",
+      "confidence": "manual",
+      "gemini_text": "Cochran John, 108 Strand"
+    },
+    {
+      "bbox": [
+        2829,
+        5919,
+        3944,
+        5980
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2836,5927,1118,62",
+      "confidence": "manual",
+      "gemini_text": "Cockle R. (bible soc.) 10 Earl st. Blkfrs"
+    },
+    {
+      "bbox": [
+        2850,
+        936,
+        3955,
+        994
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2857,937,1108,58",
+      "confidence": "manual",
+      "gemini_text": "†Bentley Richard, 8 New Burlington st"
+    },
+    {
+      "bbox": [
+        2850,
+        1002,
+        3954,
+        1060
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2857,1003,1107,59",
+      "confidence": "manual",
+      "gemini_text": "†Berger George, 19 Holywell st. Strand"
+    },
+    {
+      "bbox": [
+        2850,
+        1767,
+        3964,
+        1827
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2857,1770,1117,60",
+      "confidence": "manual",
+      "gemini_text": "Bohn Jas. 12 King William street, Strand"
+    },
+    {
+      "bbox": [
+        2848,
+        1832,
+        3963,
+        1892
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2855,1835,1118,60",
+      "confidence": "manual",
+      "gemini_text": "Bohn John, 17 Henrietta st. Covent grdn"
+    },
+    {
+      "bbox": [
+        2848,
+        1898,
+        3966,
+        1953
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2855,1901,1121,55",
+      "confidence": "manual",
+      "gemini_text": "†Boone Thos. & Wm. 29 New Bond street"
+    },
+    {
+      "bbox": [
+        2848,
+        1961,
+        3939,
+        2020
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2855,1964,1094,59",
+      "confidence": "manual",
+      "gemini_text": "‖Booth Lionel, Duke st. Portland place"
+    },
+    {
+      "bbox": [
+        2846,
+        2023,
+        3935,
+        2085
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2853,2026,1092,62",
+      "confidence": "manual",
+      "gemini_text": "§Boswood Miss M. 4 York pl. Islington"
+    },
+    {
+      "bbox": [
+        2845,
+        2084,
+        3908,
+        2156
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2852,2087,1065,72",
+      "confidence": "manual",
+      "gemini_text": "‖‡¶bBowdery & Kerby, 190 Oxford st"
+    },
+    {
+      "bbox": [
+        2845,
+        2152,
+        3968,
+        2213
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2852,2155,1126,61",
+      "confidence": "manual",
+      "gemini_text": "‖Bowron George, 213 Oxford street &"
+    },
+    {
+      "bbox": [
+        2856,
+        2280,
+        3966,
+        2341
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2863,2283,1113,61",
+      "confidence": "manual",
+      "gemini_text": "§‡Boyce Fred. 25 Motcomb st. Belgrave sq"
+    },
+    {
+      "bbox": [
+        2857,
+        2345,
+        3890,
+        2403
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2864,2348,1035,58",
+      "confidence": "manual",
+      "gemini_text": "§Boyls Mrs. R. 16 Grey st. Oxford st"
+    },
+    {
+      "bbox": [
+        2856,
+        2406,
+        3962,
+        2468
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2863,2409,1109,63",
+      "confidence": "manual",
+      "gemini_text": "§‖Bradbery Mrs. S. 2 Michael's pl. Bromp"
+    },
+    {
+      "bbox": [
+        2858,
+        2473,
+        3958,
+        2529
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2865,2477,1103,56",
+      "confidence": "manual",
+      "gemini_text": "‖Braithwaite C. 130 Mount st. Bkly. sq"
+    },
+    {
+      "bbox": [
+        2856,
+        2538,
+        3960,
+        2593
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2863,2542,1107,55",
+      "confidence": "manual",
+      "gemini_text": "§‖Brassington & Field, 27 High st. Knsngtn"
+    },
+    {
+      "bbox": [
+        2861,
+        2602,
+        3935,
+        2656
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2868,2606,1077,54",
+      "confidence": "manual",
+      "gemini_text": "‖¶aBrittain & Co. 73 Blackman street"
+    },
+    {
+      "bbox": [
+        2861,
+        2664,
+        3913,
+        2721
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2868,2668,1054,57",
+      "confidence": "manual",
+      "gemini_text": "†Brittain William, 11 Paternoster row"
+    },
+    {
+      "bbox": [
+        2861,
+        2728,
+        3935,
+        2783
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2868,2732,1077,55",
+      "confidence": "manual",
+      "gemini_text": "Britten Wm. 7 Russell court, Drury la"
+    },
+    {
+      "bbox": [
+        2863,
+        2789,
+        3887,
+        2852
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2870,2793,1026,63",
+      "confidence": "manual",
+      "gemini_text": "‖Brooks Henry, 87 New Bond street"
+    },
+    {
+      "bbox": [
+        2864,
+        2853,
+        3847,
+        2913
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2871,2857,985,60",
+      "confidence": "manual",
+      "gemini_text": "‖†Brooks Henry, 319 Regent street"
+    },
+    {
+      "bbox": [
+        2863,
+        2919,
+        3958,
+        2974
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2870,2923,1098,55",
+      "confidence": "manual",
+      "gemini_text": "*†Brown Mrs. Jane, 10 Duke st. Manch. sq"
+    },
+    {
+      "bbox": [
+        2864,
+        2984,
+        3843,
+        3038
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2871,2988,981,54",
+      "confidence": "manual",
+      "gemini_text": "Brown William, 104 High Holborn"
+    },
+    {
+      "bbox": [
+        2864,
+        3046,
+        3923,
+        3102
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2871,3050,1061,56",
+      "confidence": "manual",
+      "gemini_text": "Brown William, 130 Old st. St. Luke's"
+    },
+    {
+      "bbox": [
+        2863,
+        3111,
+        3962,
+        3164
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2870,3115,1102,54",
+      "confidence": "manual",
+      "gemini_text": "Brumby John, 24 Haymrkt. & 1 Panton st"
+    },
+    {
+      "bbox": [
+        2862,
+        3171,
+        3956,
+        3230
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2869,3176,1097,59",
+      "confidence": "manual",
+      "gemini_text": "dBryant John, 9 King William st. Strand"
+    },
+    {
+      "bbox": [
+        2860,
+        3236,
+        3956,
+        3293
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2867,3241,1099,57",
+      "confidence": "manual",
+      "gemini_text": "†§Bull Edward, 19 Holles st. Cavendish sq"
+    },
+    {
+      "bbox": [
+        2860,
+        3298,
+        3941,
+        3361
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2867,3303,1084,63",
+      "confidence": "manual",
+      "gemini_text": "aBullock William, 3 Clerkenwell green"
+    },
+    {
+      "bbox": [
+        2855,
+        3363,
+        3933,
+        3425
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2862,3368,1081,62",
+      "confidence": "manual",
+      "gemini_text": "*§‖abBult Benjn. E. 25 New Quebec st"
+    },
+    {
+      "bbox": [
+        2862,
+        3428,
+        3816,
+        3486
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2869,3433,956,58",
+      "confidence": "manual",
+      "gemini_text": "‖Bumpus Thomas, 6 Holborn bars"
+    },
+    {
+      "bbox": [
+        2863,
+        3492,
+        3965,
+        3548
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2870,3497,1105,56",
+      "confidence": "manual",
+      "gemini_text": "‖Bunce Wm. 8 Charles st. Westminster"
+    },
+    {
+      "bbox": [
+        2845,
+        1577,
+        3974,
+        1636
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2852,1579,1132,59",
+      "confidence": "manual",
+      "gemini_text": "†Blackie John & Son, 21 Warwick square"
+    },
+    {
+      "bbox": [
+        2845,
+        3675,
+        3970,
+        3758
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2852,3680,1128,83",
+      "confidence": "manual",
+      "gemini_text": "†‖Burns Jas. 17 Portman st. Portman sq"
+    },
+    {
+      "bbox": [
+        2840,
+        5277,
+        3936,
+        5353
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=2847,5285,1099,76",
+      "confidence": "manual",
+      "gemini_text": "†§‖¶Churton Edward, 26 Holles street"
+    },
+    {
+      "bbox": [
+        1726,
+        5725,
+        2844,
+        5777
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1730,5733,1121,52",
+      "confidence": "manual",
+      "gemini_text": "‖Bateman Mrs. Mary A. 16 Bucklesbury"
+    },
+    {
+      "bbox": [
+        1700,
+        5855,
+        2834,
+        5916
+      ],
+      "canvas_fragment": "https://cdm16445.contentdm.oclc.org/iiif/p16445coll4:27074/canvas/c673#xywh=1704,5863,1137,61",
+      "confidence": "manual",
+      "gemini_text": "†Baynes Wm. & Son, 54 Paternoster row"
+    }
+  ],
+  "unmatched_gemini": []
+}
