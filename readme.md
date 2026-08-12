@@ -1,11 +1,19 @@
-## Notes
+# Readme
+
+A series of OCR and NER extraction tests on four pages from the *Post Office London Directory, 1841* (Part 1: Trades' Directory), printed pages 646–649, covering the Booksellers section. Canvases 674–677 of an 890-page volume held by the University of Leicester in CONTENTdm.
+
+**Source:** [Post Office London Directory, 1841 on CONTENTdm](https://leicester.contentdm.oclc.org/digital/collection/p16445coll4/id/8844) · [full IIIF manifest](https://leicester.contentdm.oclc.org/iiif/info/p16445coll4/8844/manifest.json) (890 canvases)
+
+The four pages individually: [p. 646](https://leicester.contentdm.oclc.org/digital/collection/p16445coll4/id/27074) · [p. 647](https://leicester.contentdm.oclc.org/digital/collection/p16445coll4/id/27075) · [p. 648](https://leicester.contentdm.oclc.org/digital/collection/p16445coll4/id/27076) · [p. 649](https://leicester.contentdm.oclc.org/digital/collection/p16445coll4/id/27077)
+
+## Extraction notes
 
 ### OCR
 - I put all the files and outputs from the whole process in this repository -- a full machine-generated description of everything is in the [File Structure](#file-structure) section down below
 - I used a few different gemini models to try prompted OCR extraction, since there was only 4 pages to work with. The full evaluation and writeup from Claude is at [`model-comparison.md`](model-comparison.md)
 - Biggest takeaway: Gemini, especially Gemini 3 Pro, seems to handle the character extraction with no issues given the right prompting. I didn't do a full-scale evaluation of the OCR compared to ground truth, so perhaps I missed some character error rate or word error rate in there that wasn't immediately obvious, but at a glance it seems to handle the marker extraction fine. You can see the `ocr_prompt.md` and `ner_prompt.md` to see what I used to do the OCR and data extraction with Gemini.
-- My usual strategy of sending sample images to Gemini and asking it to create a prompt for itself only partially worked in this case. The prompts needed substantial fine-tuning from there to be fully successful. So definitely still a manual element to the OCR side of things.
-- You're right that Surya out of the box can't really handle that extremely tight 3-column layout. However, using the manual alignment correction tool in my pipeline, I was able to get 100 line matches. I only did this for the first and the third page p. 646 (scan 674) and p. 648 (scan 676) -- I purposely left the second and the fourth page untouched so the data explorer would show what happens in both the manual correction and the unmediated output. 
+- My usual strategy of sending sample images to Gemini and asking it to create a prompt for itself only partially worked in this case. The prompts needed substantial fine-tuning from there to be fully successful. So definitely still a manual element to the OCR side of things. The first pass prompts are in [`prompt-v1-archive`](./prompt-v1-archive/), the improved prompts are the `ocr_prompt.md` and `ner_prompt.md` files.
+- You're right that Surya out of the box can't really handle that extremely tight 3-column layout. However, using the manual alignment correction tool in my pipeline, I was able to get 100% line matches. It was a little tedious, but if you're only doing a handful here and there instead of dozens of pages, it's doable. I only did this for the first and the third page p. 646 (scan 674) and p. 648 (scan 676) -- I purposely left the second and the fourth page untouched so the data explorer would show what happens in both the manual correction and the unmediated output. 
 You can see in the data explorer that many of the entries for pages 2 and 4 either have image snippets crossing column boundaries, or default to showing the entire page (which means that the pipeline couldn't match the gemini lines to any of the surya lines, which happens when surya doesn't parse finely enough and therefore there are more gemini lines than surya lines)
 - I suspect in 6-12 months, there will be open weight models that can match Gemini quality on tasks like this
 
@@ -13,12 +21,6 @@ You can see in the data explorer that many of the entries for pages 2 and 4 eith
 - There was a substantial issue on this front, which is that while the NER prompt seemed to do very well for the entries under the "bookseller" headings, it captured subsequent entries from later sections, and even worse it mis-categorized them as part of the bookseller section (e.g., entries clearly under bootmaker were listed as booksellers, particularly bad because the same markers are used but mean different things). That's pretty bad, and if I was running this for real I'd probably try to clip the data from the OCR pages to _just_ the sections I cared about, in order to head off that kind of heading drift despite the detailed exhortations of the NER prompt.
 
 ## File structure
-
-Four pages from the *Post Office London Directory, 1841* (Part 1: Trades' Directory), printed pages 646–649, covering the Booksellers section. Canvases 674–677 of an 890-page volume held by the University of Leicester in CONTENTdm.
-
-**Source:** [Post Office London Directory, 1841 on CONTENTdm](https://leicester.contentdm.oclc.org/digital/collection/p16445coll4/id/8844) · [full IIIF manifest](https://leicester.contentdm.oclc.org/iiif/info/p16445coll4/8844/manifest.json) (890 canvases)
-
-The four pages individually: [p. 646](https://leicester.contentdm.oclc.org/digital/collection/p16445coll4/id/27074) · [p. 647](https://leicester.contentdm.oclc.org/digital/collection/p16445coll4/id/27075) · [p. 648](https://leicester.contentdm.oclc.org/digital/collection/p16445coll4/id/27076) · [p. 649](https://leicester.contentdm.oclc.org/digital/collection/p16445coll4/id/27077)
 
 ### Inputs
 
