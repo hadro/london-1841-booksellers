@@ -1,4 +1,4 @@
-# Readme
+# Process notes
 
 A series of OCR and NER extraction tests on four pages from the *Post Office London Directory, 1841* (Part 1: Trades' Directory), printed pages 646–649, covering the Booksellers section. Canvases 674–677 of an 890-page volume held by the University of Leicester in CONTENTdm.
 
