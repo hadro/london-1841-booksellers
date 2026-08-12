@@ -1,6 +1,6 @@
 # Process notes
 
-A series of OCR and NER extraction tests on four pages from the *Post Office London Directory, 1841* (Part 1: Trades' Directory), printed pages 646–649, covering the Booksellers section. Canvases 674–677 of an 890-page volume held by the University of Leicester in CONTENTdm.
+A series of OCR and NER extraction tests on four pages from the *Post Office London Directory, 1841* (Part 1: Trades' Directory), printed pages 646–649, covering the Booksellers section. Canvases 674–677 of an 890-page volume held by the University of Leicester in CONTENTdm. Everything here was produced with the [Directory Pipeline](https://github.com/hadro/directory-pipeline/); see [Pipeline commands summary](#pipeline-commands-summary) for the exact sequence.
 
 **Source:** [Post Office London Directory, 1841 on CONTENTdm](https://leicester.contentdm.oclc.org/digital/collection/p16445coll4/id/8844) · [full IIIF manifest](https://leicester.contentdm.oclc.org/iiif/info/p16445coll4/8844/manifest.json) (890 canvases)
 
@@ -61,6 +61,8 @@ You can see in the data explorer that many of the entries for pages 2 and 4 eith
 
 
 ## Pipeline commands summary 
+
+These commands are all from the [Directory Pipeline](https://github.com/hadro/directory-pipeline/) — script paths are relative to a checkout of that repository, and `pipeline` is the CLI it installs.
 
 ```python
 # 1. Slice the 890-canvas volume down to the four Booksellers pages
